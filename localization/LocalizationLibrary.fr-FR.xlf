@@ -8,11 +8,11 @@
       <group id="LOCALIZATIONLIBRARY/PROPERTIES/RESOURCES.RESX" datatype="resx">
         <trans-unit id="AntialiasingText" translate="yes" xml:space="preserve">
           <source>Antialiasing</source>
-          <target state="new">Antialiasing</target>
+          <target state="new">Anti-crénelage</target>
         </trans-unit>
         <trans-unit id="ApplyButtonText" translate="yes" xml:space="preserve">
           <source>APPLY</source>
-          <target state="new">APPLY</target>
+          <target state="new">APPLIQUER</target>
         </trans-unit>
         <trans-unit id="AudioText" translate="yes" xml:space="preserve">
           <source>AUDIO</source>
@@ -20,35 +20,35 @@
         </trans-unit>
         <trans-unit id="AutoSaveChoice" translate="yes" xml:space="preserve">
           <source>Auto Save</source>
-          <target state="new">Auto Save</target>
+          <target state="new">Sauvegarde auto</target>
         </trans-unit>
         <trans-unit id="AutoSelectUnit" translate="yes" xml:space="preserve">
           <source>Auto Select Unit Without Order</source>
-          <target state="new">Auto Select Unit Without Order</target>
+          <target state="new">Sélection automatique des unités sans ordre</target>
         </trans-unit>
         <trans-unit id="BackButtonText" translate="yes" xml:space="preserve">
           <source>BACK</source>
-          <target state="new">BACK</target>
+          <target state="new">RETOUR</target>
         </trans-unit>
         <trans-unit id="BackToMainMenu" translate="yes" xml:space="preserve">
           <source>BACK TO MAIN MENU</source>
-          <target state="new">BACK TO MAIN MENU</target>
+          <target state="new">RETOUR AU MENU PRINCIPAL</target>
         </trans-unit>
         <trans-unit id="BackToMainMenuQuestion" translate="yes" xml:space="preserve">
           <source>Do you really want to go back to Main Menu?</source>
-          <target state="new">Do you really want to go back to Main Menu?</target>
+          <target state="new">Voulez-vous vraiment retourner au menu principal ?</target>
         </trans-unit>
         <trans-unit id="BorderlessText" translate="yes" xml:space="preserve">
           <source>Borderless</source>
-          <target state="new">Borderless</target>
+          <target state="new">Sans bordure</target>
         </trans-unit>
         <trans-unit id="ChangesQuestion" translate="yes" xml:space="preserve">
           <source>You will loose your changes. Are you sure?</source>
-          <target state="new">You will loose your changes. Are you sure?</target>
+          <target state="new">Tous les changements seront perdus. Êtes-vous sûr?</target>
         </trans-unit>
         <trans-unit id="CloseButtonText" translate="yes" xml:space="preserve">
           <source>CLOSE</source>
-          <target state="new">CLOSE</target>
+          <target state="new">FERMER</target>
         </trans-unit>
         <trans-unit id="ConfirmationCaption" translate="yes" xml:space="preserve">
           <source>Confirmation</source>
@@ -56,7 +56,7 @@
         </trans-unit>
         <trans-unit id="ContinueText" translate="yes" xml:space="preserve">
           <source>CONTINUE</source>
-          <target state="new">CONTINUE</target>
+          <target state="new">CONTINUER</target>
         </trans-unit>
         <trans-unit id="CopyrightText" translate="yes" xml:space="preserve">
           <source>Copyright © 2017 Filip Dusek, Empty Keys</source>
@@ -72,7 +72,7 @@
         </trans-unit>
         <trans-unit id="Credits_Graphics" translate="yes" xml:space="preserve">
           <source>Graphics</source>
-          <target state="new">Graphics</target>
+          <target state="new">Graphismes</target>
         </trans-unit>
         <trans-unit id="Credits_Kevin" translate="yes" xml:space="preserve">
           <source>Kevin MacLeod (incompetech.com)</source>
@@ -92,99 +92,99 @@
         </trans-unit>
         <trans-unit id="Credits_Music" translate="yes" xml:space="preserve">
           <source>Music</source>
-          <target state="new">Music</target>
+          <target state="new">Musique</target>
         </trans-unit>
         <trans-unit id="Credits_ProgrammingDesing" translate="yes" xml:space="preserve">
           <source>Programming and Game Design</source>
-          <target state="new">Programming and Game Design</target>
+          <target state="new">Programmation et conception</target>
         </trans-unit>
         <trans-unit id="Credits_SpecialThanks" translate="yes" xml:space="preserve">
           <source>Special Thanks</source>
-          <target state="new">Special Thanks</target>
+          <target state="new">Remerciements</target>
         </trans-unit>
         <trans-unit id="Credits_SpecialThanksPeople" translate="yes" xml:space="preserve">
           <source>Vladimír Berger, Mirka Smitková, members of the Mystical Awakening, members of the Respawned UK, Irushian, Spartackus, Almkaz, Fistfullobeer</source>
-          <target state="new">Vladimír Berger, Mirka Smitková, members of the Mystical Awakening, members of the Respawned UK, Irushian, Spartackus, Almkaz, Fistfullobeer</target>
+          <target state="new">Vladimír Berger, Mirka Smitková, les membres de 'the Mystical Awakening', les membres de 'the Respawned UK', Irushian, Spartackus, Almkaz, Fistfullobeer</target>
         </trans-unit>
         <trans-unit id="CreditsText" translate="yes" xml:space="preserve">
           <source>CREDITS</source>
-          <target state="new">CREDITS</target>
+          <target state="new">CRÉDITS</target>
         </trans-unit>
         <trans-unit id="CzechText" translate="yes" xml:space="preserve">
           <source>Česky</source>
-          <target state="new">Česky</target>
+          <target state="new">Tchèque</target>
         </trans-unit>
         <trans-unit id="DeleteGameButtonText" translate="yes" xml:space="preserve">
           <source>DELETE</source>
-          <target state="new">DELETE</target>
+          <target state="new">SUPPRIMER</target>
         </trans-unit>
         <trans-unit id="DeleteQuestion" translate="yes" xml:space="preserve">
           <source>Do you really want to delete the save file?</source>
-          <target state="new">Do you really want to delete the save file?</target>
+          <target state="new">Voulez-vous vraiment supprimer cette sauvegarde ?</target>
         </trans-unit>
         <trans-unit id="DestroyUnitCaption" translate="yes" xml:space="preserve">
           <source>Destroy Unit Confirmation</source>
-          <target state="new">Destroy Unit Confirmation</target>
+          <target state="new">Confirmation de la destruction de l'unité</target>
         </trans-unit>
         <trans-unit id="DestroyUnitQuestion" translate="yes" xml:space="preserve">
           <source>Do you really want to destroy this unit?</source>
-          <target state="new">Do you really want to destroy this unit?</target>
+          <target state="new">Voulez-vous vraiment supprimer cette unité ?</target>
         </trans-unit>
         <trans-unit id="DiplomacyPanel_ActionCost" translate="yes" xml:space="preserve">
           <source>Action Cost:</source>
-          <target state="new">Action Cost:</target>
+          <target state="new">Coût de l'action :</target>
         </trans-unit>
         <trans-unit id="DiplomacyPanel_Actions" translate="yes" xml:space="preserve">
           <source>Diplomatic Actions</source>
-          <target state="new">Diplomatic Actions</target>
+          <target state="new">Actions diplomatiques</target>
         </trans-unit>
         <trans-unit id="DiplomacyPanel_AtWar" translate="yes" xml:space="preserve">
           <source>At War</source>
-          <target state="new">At War</target>
+          <target state="new">En guerre</target>
         </trans-unit>
         <trans-unit id="DiplomacyPanel_Borders" translate="yes" xml:space="preserve">
           <source>Borders State</source>
-          <target state="new">Borders State</target>
+          <target state="new">États frontaliers</target>
         </trans-unit>
         <trans-unit id="DiplomacyPanel_CloseBorders" translate="yes" xml:space="preserve">
           <source>Closed</source>
-          <target state="new">Closed</target>
+          <target state="new">Fermées</target>
         </trans-unit>
         <trans-unit id="DiplomacyPanel_CloseBordersButton" translate="yes" xml:space="preserve">
           <source>Close Borders</source>
-          <target state="new">Close Borders</target>
+          <target state="new">Fermer les frontières</target>
         </trans-unit>
         <trans-unit id="DiplomacyPanel_DeclarationCooldown" translate="yes" xml:space="preserve">
           <source>Declaration Cooldown</source>
-          <target state="new">Declaration Cooldown</target>
+          <target state="new">Déclaration cooldown</target>
         </trans-unit>
         <trans-unit id="DiplomacyPanel_DeclareWar" translate="yes" xml:space="preserve">
           <source>Declare War</source>
-          <target state="new">Declare War</target>
+          <target state="new">Déclarer la guerre</target>
         </trans-unit>
         <trans-unit id="DiplomacyPanel_EnemyWarScore" translate="yes" xml:space="preserve">
           <source>Enemy Warscore</source>
-          <target state="new">Enemy Warscore</target>
+          <target state="new">Score de guerre ennemi</target>
         </trans-unit>
         <trans-unit id="DiplomacyPanel_MakePeace" translate="yes" xml:space="preserve">
           <source>Make Peace</source>
-          <target state="new">Make Peace</target>
+          <target state="new">Faire la paix</target>
         </trans-unit>
         <trans-unit id="DiplomacyPanel_NoRaceFoundYet" translate="yes" xml:space="preserve">
           <source>No other race found yet.</source>
-          <target state="new">No other race found yet.</target>
+          <target state="new">Aucune autre race trouvée.</target>
         </trans-unit>
         <trans-unit id="DiplomacyPanel_OpenBorders" translate="yes" xml:space="preserve">
           <source>Opened</source>
-          <target state="new">Opened</target>
+          <target state="new">Ouvertes</target>
         </trans-unit>
         <trans-unit id="DiplomacyPanel_OpenBordersButton" translate="yes" xml:space="preserve">
           <source>Open Borders</source>
-          <target state="new">Open Borders</target>
+          <target state="new">Ouvrir les frontières</target>
         </trans-unit>
         <trans-unit id="DiplomacyPanel_RaceBonuses" translate="yes" xml:space="preserve">
           <source>Race Bonuses</source>
-          <target state="new">Race Bonuses</target>
+          <target state="new">Bonus de race</target>
         </trans-unit>
         <trans-unit id="DiplomacyPanel_Relation" translate="yes" xml:space="preserve">
           <source>Relation</source>
@@ -200,27 +200,27 @@
         </trans-unit>
         <trans-unit id="DiplomacyPanel_YourWarScore" translate="yes" xml:space="preserve">
           <source>Your Warscore</source>
-          <target state="new">Your Warscore</target>
+          <target state="new">Votre score de guerre</target>
         </trans-unit>
         <trans-unit id="DisplayModeText" translate="yes" xml:space="preserve">
           <source>Display Mode</source>
-          <target state="new">Display Mode</target>
+          <target state="new">Mode d'affichage</target>
         </trans-unit>
         <trans-unit id="EdgeOfScreenScrolling" translate="yes" xml:space="preserve">
           <source>Edge Of Screen Scrolling</source>
-          <target state="new">Edge Of Screen Scrolling</target>
+          <target state="new">Défilement en bord d'écran</target>
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Diplomacy.DiplomaticActions_BordersControl" translate="yes" xml:space="preserve">
           <source>Border Controls</source>
-          <target state="new">Border Controls</target>
+          <target state="new">Contrôle des frontières</target>
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Diplomacy.DiplomaticActions_DeclareWar" translate="yes" xml:space="preserve">
           <source>Declare War</source>
-          <target state="new">Declare War</target>
+          <target state="new">Déclarer la guerre</target>
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Diplomacy.PlayerRelationsLevel_Friendly" translate="yes" xml:space="preserve">
           <source>Friendly</source>
-          <target state="new">Friendly</target>
+          <target state="new">Amical</target>
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Diplomacy.PlayerRelationsLevel_Hostile" translate="yes" xml:space="preserve">
           <source>Hostile</source>
@@ -228,43 +228,43 @@
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Diplomacy.PlayerRelationsLevel_Neutral" translate="yes" xml:space="preserve">
           <source>Neutral</source>
-          <target state="new">Neutral</target>
+          <target state="new">Neutre</target>
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Environment.PlanetType_All" translate="yes" xml:space="preserve">
           <source>All</source>
-          <target state="new">All</target>
+          <target state="new">Tous</target>
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Environment.PlanetType_Desert" translate="yes" xml:space="preserve">
           <source>Desert</source>
-          <target state="new">Desert</target>
+          <target state="new">Désert</target>
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Environment.PlanetType_Gas" translate="yes" xml:space="preserve">
           <source>Gas</source>
-          <target state="new">Gas</target>
+          <target state="new">Gaz</target>
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Environment.PlanetType_Ice" translate="yes" xml:space="preserve">
           <source>Ice</source>
-          <target state="new">Ice</target>
+          <target state="new">Glace</target>
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Environment.PlanetType_Iron" translate="yes" xml:space="preserve">
           <source>Iron</source>
-          <target state="new">Iron</target>
+          <target state="new">Fer</target>
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Environment.PlanetType_Lava" translate="yes" xml:space="preserve">
           <source>Lava</source>
-          <target state="new">Lava</target>
+          <target state="new">Lave</target>
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Environment.PlanetType_Ocean" translate="yes" xml:space="preserve">
           <source>Ocean</source>
-          <target state="new">Ocean</target>
+          <target state="new">Océan</target>
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Environment.PlanetType_Rocky" translate="yes" xml:space="preserve">
           <source>Rocky</source>
-          <target state="new">Rocky</target>
+          <target state="new">Roche</target>
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Environment.PlanetUpgrades.UpgradeModifierType_Energy" translate="yes" xml:space="preserve">
           <source>Energy</source>
-          <target state="new">Energy</target>
+          <target state="new">Énergie</target>
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Environment.PlanetUpgrades.UpgradeModifierType_Intelligence" translate="yes" xml:space="preserve">
           <source>Intelligence</source>
@@ -276,7 +276,7 @@
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Environment.PlanetUpgrades.UpgradeModifierType_None" translate="yes" xml:space="preserve">
           <source>None</source>
-          <target state="new">None</target>
+          <target state="new">Aucun</target>
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Environment.PlanetUpgrades.UpgradeModifierType_Population" translate="yes" xml:space="preserve">
           <source>Population</source>
@@ -288,83 +288,83 @@
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Environment.PlanetUpgrades.UpgradeModifierType_RepairCost" translate="yes" xml:space="preserve">
           <source>Repair Cost</source>
-          <target state="new">Repair Cost</target>
+          <target state="new">Coût de réparation</target>
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Environment.PlanetUpgrades.UpgradeModifierType_Research" translate="yes" xml:space="preserve">
           <source>Research</source>
-          <target state="new">Research</target>
+          <target state="new">Recherche</target>
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Environment.PlanetUpgrades.UpgradeModifierType_Resources" translate="yes" xml:space="preserve">
           <source>Food</source>
-          <target state="new">Food</target>
+          <target state="new">Nourriture</target>
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Environment.PlanetUpgrades.UpgradeModifierType_TradeRoutesCount" translate="yes" xml:space="preserve">
           <source>Trades Routes</source>
-          <target state="new">Trades Routes</target>
+          <target state="new">Routes commerciales</target>
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Environment.PlanetUpgrades.UpgradeModifierType_UnitsStartingRank" translate="yes" xml:space="preserve">
           <source>Starting Rank</source>
-          <target state="new">Starting Rank</target>
+          <target state="new">Grade de départ</target>
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Environment.PlanetUpgrades.UpgradeModifierType_UpgradeMaintenanceCost" translate="yes" xml:space="preserve">
           <source>Maintenance Cost</source>
-          <target state="new">Maintenance Cost</target>
+          <target state="new">Coût de maintenance</target>
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Environment.SpectralType_ClassA" translate="yes" xml:space="preserve">
           <source>Class A</source>
-          <target state="new">Class A</target>
+          <target state="new">Classe A</target>
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Environment.SpectralType_ClassB" translate="yes" xml:space="preserve">
           <source>Class B</source>
-          <target state="new">Class B</target>
+          <target state="new">Classe B</target>
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Environment.SpectralType_ClassF" translate="yes" xml:space="preserve">
           <source>Class F</source>
-          <target state="new">Class F</target>
+          <target state="new">Classe F</target>
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Environment.SpectralType_ClassG" translate="yes" xml:space="preserve">
           <source>Class G</source>
-          <target state="new">Class G</target>
+          <target state="new">Classe G</target>
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Environment.SpectralType_ClassK" translate="yes" xml:space="preserve">
           <source>Class K</source>
-          <target state="new">Class K</target>
+          <target state="new">Classe K</target>
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Environment.SpectralType_ClassM" translate="yes" xml:space="preserve">
           <source>Class M</source>
-          <target state="new">Class M</target>
+          <target state="new">Classe M</target>
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Environment.SpectralType_ClassO" translate="yes" xml:space="preserve">
           <source>Class O</source>
-          <target state="new">Class O</target>
+          <target state="new">Classe O</target>
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Missions.VictoryType_Diplomatic" translate="yes" xml:space="preserve">
           <source>Diplomatic Victory</source>
-          <target state="new">Diplomatic Victory</target>
+          <target state="new">Victoire diplomatique</target>
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Missions.VictoryType_Domination" translate="yes" xml:space="preserve">
           <source>Domination Victory</source>
-          <target state="new">Domination Victory</target>
+          <target state="new">Victoire par domination</target>
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Missions.VictoryType_Economic" translate="yes" xml:space="preserve">
           <source>Economic Victory</source>
-          <target state="new">Economic Victory</target>
+          <target state="new">Victoire économique</target>
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Missions.VictoryType_Expansion" translate="yes" xml:space="preserve">
           <source>Expansion Victory</source>
-          <target state="new">Expansion Victory</target>
+          <target state="new">Victoire par conquête</target>
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Missions.VictoryType_None" translate="yes" xml:space="preserve">
           <source>None</source>
-          <target state="new">None</target>
+          <target state="new">Aucune</target>
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Missions.VictoryType_Research" translate="yes" xml:space="preserve">
           <source>Research Victory</source>
-          <target state="new">Research Victory</target>
+          <target state="new">Victoire scientifique</target>
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Missions.VictoryType_Score" translate="yes" xml:space="preserve">
           <source>Score Victory</source>
-          <target state="new">Score Victory</target>
+          <target state="new">Victoire au score</target>
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Units.ShieldDirection_Aft" translate="yes" xml:space="preserve">
           <source>A</source>
@@ -392,7 +392,7 @@
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Units.UnitActions_MiniJump" translate="yes" xml:space="preserve">
           <source>Mini Jump</source>
-          <target state="new">Mini Jump</target>
+          <target state="new">Mini Saut</target>
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Units.UnitActions_Scan" translate="yes" xml:space="preserve">
           <source>Scan</source>
@@ -400,11 +400,11 @@
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Units.UnitActions_ShieldRecharge" translate="yes" xml:space="preserve">
           <source>Shields Recharge</source>
-          <target state="new">Shields Recharge</target>
+          <target state="new">Recharge des boucliers</target>
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.Units.UnitActions_WarpMagnet" translate="yes" xml:space="preserve">
           <source>Warp Magnet</source>
-          <target state="new">Warp Magnet</target>
+          <target state="new">Aimant Warp</target>
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.UserInterface.Models.AutoSaveChoice_Off" translate="yes" xml:space="preserve">
           <source>Off</source>
@@ -412,87 +412,87 @@
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.UserInterface.Models.AutoSaveChoice_Per10Turns" translate="yes" xml:space="preserve">
           <source>Every 10 Turns</source>
-          <target state="new">Every 10 Turns</target>
+          <target state="new">Tous les 10 tours</target>
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.UserInterface.Models.AutoSaveChoice_Per5Turns" translate="yes" xml:space="preserve">
           <source>Every 5 Turns</source>
-          <target state="new">Every 5 Turns</target>
+          <target state="new">Tous les 5 tours</target>
         </trans-unit>
         <trans-unit id="EmptyKeys.Strategy.UserInterface.Models.AutoSaveChoice_PerTurn" translate="yes" xml:space="preserve">
           <source>Every Turn</source>
-          <target state="new">Every Turn</target>
+          <target state="new">Chaque tour</target>
         </trans-unit>
         <trans-unit id="EndTurnReport_Info_DiplomacyBordersClosed" translate="yes" xml:space="preserve">
           <source>Player closed the borders</source>
-          <target state="new">Player closed the borders</target>
+          <target state="new">Joueur a fermé les frontières</target>
         </trans-unit>
         <trans-unit id="EndTurnReport_Info_DiplomacyBordersOpened" translate="yes" xml:space="preserve">
           <source>Player opened the borders</source>
-          <target state="new">Player opened the borders</target>
+          <target state="new">Joueur a ouvert les frontières</target>
         </trans-unit>
         <trans-unit id="EndTurnReport_Info_DiplomacyPeaceMade" translate="yes" xml:space="preserve">
           <source>Enemy declared Peace</source>
-          <target state="new">Enemy declared Peace</target>
+          <target state="new">Ennemi a declaré la paix</target>
         </trans-unit>
         <trans-unit id="EndTurnReport_Info_DiplomacyWarDeclared" translate="yes" xml:space="preserve">
           <source>Enemy declared War</source>
-          <target state="new">Enemy declared War</target>
+          <target state="new">Ennemi a declaré la guerre</target>
         </trans-unit>
         <trans-unit id="EndTurnReport_Info_EnemyBuildingDysonSphere" translate="yes" xml:space="preserve">
           <source>Enemy is building the Dyson Sphere</source>
-          <target state="new">Enemy is building the Dyson Sphere</target>
+          <target state="new">Ennemi est en train de construire la sphère Dyson</target>
         </trans-unit>
         <trans-unit id="EndTurnReport_Info_EnemyEnteringSystem" translate="yes" xml:space="preserve">
           <source>Hostile ship is entering the system</source>
-          <target state="new">Hostile ship is entering the system</target>
+          <target state="new">Un vaisseau hostile est entré dans le système</target>
         </trans-unit>
         <trans-unit id="EndTurnReport_Info_EnemyUnitOnOrbit" translate="yes" xml:space="preserve">
           <source>Enemy ship is on the planet orbit</source>
-          <target state="new">Enemy ship is on the planet orbit</target>
+          <target state="new">Un vaisseau ennemi est en orbite</target>
         </trans-unit>
         <trans-unit id="EndTurnReport_Info_EnergyLootAcquired" translate="yes" xml:space="preserve">
           <source>Energy loot acquired</source>
-          <target state="new">Energy loot acquired</target>
+          <target state="new">Pillage d'énergie obtenu</target>
         </trans-unit>
         <trans-unit id="EndTurnReport_Info_EnergyStorageFull" translate="yes" xml:space="preserve">
           <source>Energy Storage is full</source>
-          <target state="new">Energy Storage is full</target>
+          <target state="new">Le stockage d'énergie est plein</target>
         </trans-unit>
         <trans-unit id="EndTurnReport_Info_InsufficientResource" translate="yes" xml:space="preserve">
           <source>Insufficient resource</source>
-          <target state="new">Insufficient resource</target>
+          <target state="new">Pas assez de ressources</target>
         </trans-unit>
         <trans-unit id="EndTurnReport_Info_MissionAssigned" translate="yes" xml:space="preserve">
           <source>Mission assigned</source>
-          <target state="new">Mission assigned</target>
+          <target state="new">Mission attribuée</target>
         </trans-unit>
         <trans-unit id="EndTurnReport_Info_MissionFinished" translate="yes" xml:space="preserve">
           <source>Mission finished</source>
-          <target state="new">Mission finished</target>
+          <target state="new">Mission terminée</target>
         </trans-unit>
         <trans-unit id="EndTurnReport_Info_NewPlayerEncounter" translate="yes" xml:space="preserve">
           <source>New player encountered</source>
-          <target state="new">New player encountered</target>
+          <target state="new">Nouveau joueur rencontré</target>
         </trans-unit>
         <trans-unit id="EndTurnReport_Info_PlanetColonized" translate="yes" xml:space="preserve">
           <source>Planet colonized</source>
-          <target state="new">Planet colonized</target>
+          <target state="new">Planète colonisée</target>
         </trans-unit>
         <trans-unit id="EndTurnReport_Info_PlanetFactoryQueueEmpty" translate="yes" xml:space="preserve">
           <source>Factory queue is empty</source>
-          <target state="new">Factory queue is empty</target>
+          <target state="new">La file de production est vide</target>
         </trans-unit>
         <trans-unit id="EndTurnReport_Info_PlanetGainedPopulation" translate="yes" xml:space="preserve">
           <source>The planet's population has increased</source>
-          <target state="new">The planet's population has increased</target>
+          <target state="new">La population de la planète a augmenté</target>
         </trans-unit>
         <trans-unit id="EndTurnReport_Info_PlanetLost" translate="yes" xml:space="preserve">
           <source>Planet lost</source>
-          <target state="new">Planet lost</target>
+          <target state="new">Planète perdue</target>
         </trans-unit>
         <trans-unit id="EndTurnReport_Info_PlanetUnderSiege" translate="yes" xml:space="preserve">
           <source>Planet is under siege</source>
-          <target state="new">Planet is under siege</target>
+          <target state="new">Planète assiégée</target>
         </trans-unit>
         <trans-unit id="EndTurnReport_Info_PlanetUpgradeFinished" translate="yes" xml:space="preserve">
           <source>Planet construction completed</source>
@@ -500,7 +500,7 @@
         </trans-unit>
         <trans-unit id="EndTurnReport_Info_PlayerEliminated" translate="yes" xml:space="preserve">
           <source>Player eliminated</source>
-          <target state="new">Player eliminated</target>
+          <target state="new">Joueur éliminé</target>
         </trans-unit>
         <trans-unit id="EndTurnReport_Info_ResearchLootAcquired" translate="yes" xml:space="preserve">
           <source>Research loot acquired</source>
@@ -508,7 +508,7 @@
         </trans-unit>
         <trans-unit id="EndTurnReport_Info_StarSystemFound" translate="yes" xml:space="preserve">
           <source>Star system found</source>
-          <target state="new">Star system found</target>
+          <target state="new">Système solaire découvert</target>
         </trans-unit>
         <trans-unit id="EndTurnReport_Info_StaticUnitConstructed" translate="yes" xml:space="preserve">
           <source>Static unit constructed</source>
@@ -516,7 +516,7 @@
         </trans-unit>
         <trans-unit id="EndTurnReport_Info_TechnologyAcquired" translate="yes" xml:space="preserve">
           <source>Technology acquired</source>
-          <target state="new">Technology acquired</target>
+          <target state="new">Technologie obtenue</target>
         </trans-unit>
         <trans-unit id="EndTurnReport_Info_TechnologyLootAcquired" translate="yes" xml:space="preserve">
           <source>Technology loot acquired</source>
@@ -528,7 +528,7 @@
         </trans-unit>
         <trans-unit id="EndTurnReport_Info_TradeCanceled" translate="yes" xml:space="preserve">
           <source>Trade canceled</source>
-          <target state="new">Trade canceled</target>
+          <target state="new">Commerce annulé</target>
         </trans-unit>
         <trans-unit id="EndTurnReport_Info_TradeWillExpire" translate="yes" xml:space="preserve">
           <source>Trade is about to expire</source>
@@ -536,67 +536,67 @@
         </trans-unit>
         <trans-unit id="EndTurnReport_Info_UnitConstructed" translate="yes" xml:space="preserve">
           <source>Unit constructed</source>
-          <target state="new">Unit constructed</target>
+          <target state="new">Unité construite</target>
         </trans-unit>
         <trans-unit id="EndTurnReport_Info_UnitDestroyed" translate="yes" xml:space="preserve">
           <source>Unit destroyed</source>
-          <target state="new">Unit destroyed</target>
+          <target state="new">Unité détruite</target>
         </trans-unit>
         <trans-unit id="EndTurnReport_Info_UnitRankUp" translate="yes" xml:space="preserve">
           <source>Unit has gained rank</source>
-          <target state="new">Unit has gained rank</target>
+          <target state="new">L'unité a gagné un rang</target>
         </trans-unit>
         <trans-unit id="EndTurnReport_Info_UnitUnderAttack" translate="yes" xml:space="preserve">
           <source>Unit is under attack</source>
-          <target state="new">Unit is under attack</target>
+          <target state="new">L'unité est attaquée</target>
         </trans-unit>
         <trans-unit id="EndTurnReport_Info_ZeroEnergy" translate="yes" xml:space="preserve">
           <source>Player has not enough energy</source>
-          <target state="new">Player has not enough energy</target>
+          <target state="new">Le joueur n'a pas assez d'énergie</target>
         </trans-unit>
         <trans-unit id="EndTurnReports" translate="yes" xml:space="preserve">
           <source>Reports</source>
-          <target state="new">Reports</target>
+          <target state="new">Rapports</target>
         </trans-unit>
         <trans-unit id="EndTurnReportWindow_ClickDismiss" translate="yes" xml:space="preserve">
           <source>Right double-click to dismiss</source>
-          <target state="new">Right double-click to dismiss</target>
+          <target state="new">Double-clic droit pour masquer</target>
         </trans-unit>
         <trans-unit id="EndTurnReportWindow_ClickGoTo" translate="yes" xml:space="preserve">
           <source>Left click to show</source>
-          <target state="new">Left click to show</target>
+          <target state="new">Clic gauche pour afficher</target>
         </trans-unit>
         <trans-unit id="EndTurnReportWindow_ConstructionCompleted" translate="yes" xml:space="preserve">
           <source>Construction was completed.</source>
-          <target state="new">Construction was completed.</target>
+          <target state="new">Construction complète.</target>
         </trans-unit>
         <trans-unit id="EndTurnReportWindow_ConstructionCompletedOn" translate="yes" xml:space="preserve">
           <source>Construction was completed.</source>
-          <target state="new">Construction was completed.</target>
+          <target state="new">Construction complète.</target>
         </trans-unit>
         <trans-unit id="EndTurnReportWindow_Destroyed" translate="yes" xml:space="preserve">
           <source>Unit was destroyed.</source>
-          <target state="new">Unit was destroyed.</target>
+          <target state="new">L'unité a été détruite.</target>
         </trans-unit>
         <trans-unit id="EndTurnReportWindow_DiplomacyBordersClosed" translate="yes" xml:space="preserve">
           <source>The borders were closed.</source>
-          <target state="new">The borders were closed.</target>
+          <target state="new">Les frontieres ont été fermées.</target>
         </trans-unit>
         <trans-unit id="EndTurnReportWindow_DiplomacyBordersOpened" translate="yes" xml:space="preserve">
           <source>The borders were opened.</source>
-          <target state="new">The borders were opened.</target>
+          <target state="new">Les frontieres ont été ouvertes.</target>
         </trans-unit>
         <trans-unit id="EndTurnReportWindow_DiplomacyPeaceMade" translate="yes" xml:space="preserve">
           <source>Declaration of Peace</source>
-          <target state="new">Declaration of Peace</target>
+          <target state="new">Déclaration de paix</target>
         </trans-unit>
         <trans-unit id="EndTurnReportWindow_DiplomacyWarDeclared" translate="yes" xml:space="preserve">
           <source>Declaration of War</source>
-          <target state="new">Declaration of War</target>
+          <target state="new">Déclaration de guerre</target>
         </trans-unit>
         <trans-unit id="EndTurnReportWindow_DismissAll" translate="yes" xml:space="preserve">
           <source>DISMISS ALL</source>
-          <target state="new">DISMISS ALL</target>
+          <target state="new">TOUT MASQUER</target>
         </trans-unit>
         <trans-unit id="EndTurnReportWindow_EnemyBuildingDysonSphere" translate="yes" xml:space="preserve">
           <source>Enemy is building the Dyson Sphere.</source>
@@ -612,63 +612,63 @@
         </trans-unit>
         <trans-unit id="EndTurnReportWindow_EnergyLootAcquired" translate="yes" xml:space="preserve">
           <source>Energy was salvaged from the wreckage.</source>
-          <target state="new">Energy was salvaged from the wreckage.</target>
+          <target state="new">Énergie was salvaged from the wreckage.</target>
         </trans-unit>
         <trans-unit id="EndTurnReportWindow_EnergyStorageFull" translate="yes" xml:space="preserve">
           <source>Energy Storage is full.</source>
-          <target state="new">Energy Storage is full.</target>
+          <target state="new">Le stockage d'énergie est rempli.</target>
         </trans-unit>
         <trans-unit id="EndTurnReportWindow_Filter" translate="yes" xml:space="preserve">
           <source>Filter</source>
-          <target state="new">Filter</target>
+          <target state="new">Filtrer</target>
         </trans-unit>
         <trans-unit id="EndTurnReportWindow_FilterCritical" translate="yes" xml:space="preserve">
           <source>Critical</source>
-          <target state="new">Critical</target>
+          <target state="new">Critique</target>
         </trans-unit>
         <trans-unit id="EndTurnReportWindow_FilterInfo" translate="yes" xml:space="preserve">
           <source>Info</source>
-          <target state="new">Info</target>
+          <target state="new">Information</target>
         </trans-unit>
         <trans-unit id="EndTurnReportWindow_FilterWarning" translate="yes" xml:space="preserve">
           <source>Warning</source>
-          <target state="new">Warning</target>
+          <target state="new">Avertissement</target>
         </trans-unit>
         <trans-unit id="EndTurnReportWindow_InsufficientResource" translate="yes" xml:space="preserve">
           <source>You don't have enough of rare resource.</source>
-          <target state="new">You don't have enough of rare resource.</target>
+          <target state="new">Vous n'avez pas assez de ressources rares.</target>
         </trans-unit>
         <trans-unit id="EndTurnReportWindow_MissionAssigned" translate="yes" xml:space="preserve">
           <source>New mission was assigned.</source>
-          <target state="new">New mission was assigned.</target>
+          <target state="new">Nouvelle mission.</target>
         </trans-unit>
         <trans-unit id="EndTurnReportWindow_MissionFinished" translate="yes" xml:space="preserve">
           <source>Mission was finished.</source>
-          <target state="new">Mission was finished.</target>
+          <target state="new">Mission terminée.</target>
         </trans-unit>
         <trans-unit id="EndTurnReportWindow_NewPlayerEncounter" translate="yes" xml:space="preserve">
           <source>You have made the first contact.</source>
-          <target state="new">You have made the first contact.</target>
+          <target state="new">Vous avez établi un premier contact.</target>
         </trans-unit>
         <trans-unit id="EndTurnReportWindow_PlanetColonized" translate="yes" xml:space="preserve">
           <source>Planet was colonized.</source>
-          <target state="new">Planet was colonized.</target>
+          <target state="new">La planète a été colonisée.</target>
         </trans-unit>
         <trans-unit id="EndTurnReportWindow_PlanetFactoryQueueEmpty" translate="yes" xml:space="preserve">
           <source>Planet has an empty factory queue.</source>
-          <target state="new">Planet has an empty factory queue.</target>
+          <target state="new">La file de production est vide.</target>
         </trans-unit>
         <trans-unit id="EndTurnReportWindow_PlanetGainedPopulation" translate="yes" xml:space="preserve">
           <source>Planet {0} has gained population.</source>
-          <target state="new">Planet {0} has gained population.</target>
+          <target state="new">La planète {0} a gagné en population.</target>
         </trans-unit>
         <trans-unit id="EndTurnReportWindow_PlanetLost" translate="yes" xml:space="preserve">
           <source>Planet was lost.</source>
-          <target state="new">Planet was lost.</target>
+          <target state="new">La planète a été perdue.</target>
         </trans-unit>
         <trans-unit id="EndTurnReportWindow_PlayerEliminated" translate="yes" xml:space="preserve">
           <source>Player was eliminated.</source>
-          <target state="new">Player was eliminated.</target>
+          <target state="new">Le joueur a été éliminé.</target>
         </trans-unit>
         <trans-unit id="EndTurnReportWindow_ResearchLootAcquired" translate="yes" xml:space="preserve">
           <source>Research progress was salvaged from the wreckage.</source>
@@ -676,11 +676,11 @@
         </trans-unit>
         <trans-unit id="EndTurnReportWindow_StarSystemFound" translate="yes" xml:space="preserve">
           <source>New star system was found.</source>
-          <target state="new">New star system was found.</target>
+          <target state="new">Un nouveau system solaire a été découvert.</target>
         </trans-unit>
         <trans-unit id="EndTurnReportWindow_TechnologyAcquired" translate="yes" xml:space="preserve">
           <source>Technology was acquired.</source>
-          <target state="new">Technology was acquired.</target>
+          <target state="new">Technologie obtenue.</target>
         </trans-unit>
         <trans-unit id="EndTurnReportWindow_TechnologyLootAcquired" translate="yes" xml:space="preserve">
           <source>Technology progress was salvaged from the wreckage.</source>
@@ -688,7 +688,7 @@
         </trans-unit>
         <trans-unit id="EndTurnReportWindow_Title" translate="yes" xml:space="preserve">
           <source>REPORTS</source>
-          <target state="new">REPORTS</target>
+          <target state="new">RAPPORTS</target>
         </trans-unit>
         <trans-unit id="EndTurnReportWindow_TradeAutoRenewed" translate="yes" xml:space="preserve">
           <source>A trade deal was auto renewed.</source>
@@ -696,15 +696,15 @@
         </trans-unit>
         <trans-unit id="EndTurnReportWindow_TradeCanceled" translate="yes" xml:space="preserve">
           <source>A trade deal was canceled.</source>
-          <target state="new">A trade deal was canceled.</target>
+          <target state="new">Un accord commercial a été annulé.</target>
         </trans-unit>
         <trans-unit id="EndTurnReportWindow_TradeWillExpire" translate="yes" xml:space="preserve">
           <source>A trade deal is about expire.</source>
-          <target state="new">A trade deal is about expire.</target>
+          <target state="new">Un accord commercial est sur le point d'expirer.</target>
         </trans-unit>
         <trans-unit id="EndTurnReportWindow_UnderSiege" translate="yes" xml:space="preserve">
           <source>Planet is under siege.</source>
-          <target state="new">Planet is under siege.</target>
+          <target state="new">La planète est assiégée.</target>
         </trans-unit>
         <trans-unit id="EndTurnReportWindow_UnitRankUp" translate="yes" xml:space="preserve">
           <source>Unit has new rank.</source>
@@ -716,11 +716,11 @@
         </trans-unit>
         <trans-unit id="EndTurnReportWindow_ZeroEnergy" translate="yes" xml:space="preserve">
           <source>You are out of energy.</source>
-          <target state="new">You are out of energy.</target>
+          <target state="new">Vous n'avez plus d'énergie.</target>
         </trans-unit>
         <trans-unit id="EnergyCost" translate="yes" xml:space="preserve">
           <source>Energy Cost</source>
-          <target state="new">Energy Cost</target>
+          <target state="new">Coût d'énergie</target>
         </trans-unit>
         <trans-unit id="EngineeringPanel_AstronomyTechAI" translate="yes" xml:space="preserve">
           <source>Exploration</source>
@@ -728,15 +728,15 @@
         </trans-unit>
         <trans-unit id="EngineeringPanel_BalancedTechAI" translate="yes" xml:space="preserve">
           <source>Balanced</source>
-          <target state="new">Balanced</target>
+          <target state="new">Équilibré</target>
         </trans-unit>
         <trans-unit id="EngineeringPanel_EconomyTechAI" translate="yes" xml:space="preserve">
           <source>Economy</source>
-          <target state="new">Economy</target>
+          <target state="new">Économie</target>
         </trans-unit>
         <trans-unit id="EngineeringPanel_EnergyTechAI" translate="yes" xml:space="preserve">
           <source>Energy</source>
-          <target state="new">Energy</target>
+          <target state="new">Énergie</target>
         </trans-unit>
         <trans-unit id="EngineeringPanel_Experiment" translate="yes" xml:space="preserve">
           <source>Start the experiment with a chance</source>
@@ -760,7 +760,7 @@
         </trans-unit>
         <trans-unit id="EngineeringPanel_NoneTechAI" translate="yes" xml:space="preserve">
           <source>None</source>
-          <target state="new">None</target>
+          <target state="new">Aucune</target>
         </trans-unit>
         <trans-unit id="EngineeringPanel_PercentDistribution" translate="yes" xml:space="preserve">
           <source>EVEN % DISTRIBUTION</source>
@@ -768,7 +768,7 @@
         </trans-unit>
         <trans-unit id="EngineeringPanel_Plan" translate="yes" xml:space="preserve">
           <source>Auto Research</source>
-          <target state="new">Auto Research</target>
+          <target state="new">Recherche auto</target>
         </trans-unit>
         <trans-unit id="EngineeringPanel_ProgressPool" translate="yes" xml:space="preserve">
           <source>Progress Pool</source>
@@ -776,19 +776,19 @@
         </trans-unit>
         <trans-unit id="EngineeringPanel_ResearchCost" translate="yes" xml:space="preserve">
           <source>Research Cost</source>
-          <target state="new">Research Cost</target>
+          <target state="new">Coût de recherche</target>
         </trans-unit>
         <trans-unit id="EngineeringPanel_ResearchTechAI" translate="yes" xml:space="preserve">
           <source>Research</source>
-          <target state="new">Research</target>
+          <target state="new">Recherche</target>
         </trans-unit>
         <trans-unit id="EngineeringPanel_ReturnToMap" translate="yes" xml:space="preserve">
           <source>RETURN TO MAP</source>
-          <target state="new">RETURN TO MAP</target>
+          <target state="new">RETOUR À LA CARTE</target>
         </trans-unit>
         <trans-unit id="EngineeringPanel_Search" translate="yes" xml:space="preserve">
           <source>SEARCH</source>
-          <target state="new">SEARCH</target>
+          <target state="new">CHERCHER</target>
         </trans-unit>
         <trans-unit id="EngineeringPanel_SearchHint" translate="yes" xml:space="preserve">
           <source>Search for Technology...</source>
@@ -796,19 +796,19 @@
         </trans-unit>
         <trans-unit id="EnglishText" translate="yes" xml:space="preserve">
           <source>English</source>
-          <target state="new">English</target>
+          <target state="new">Anglais</target>
         </trans-unit>
         <trans-unit id="ErrorCaption" translate="yes" xml:space="preserve">
           <source>OOPS! ERROR!</source>
-          <target state="new">OOPS! ERROR!</target>
+          <target state="new">OUPS! ERREUR!</target>
         </trans-unit>
         <trans-unit id="ExitGameText" translate="yes" xml:space="preserve">
           <source>EXIT GAME</source>
-          <target state="new">EXIT GAME</target>
+          <target state="new">QUITTER LE JEU</target>
         </trans-unit>
         <trans-unit id="ExitQuestion" translate="yes" xml:space="preserve">
           <source>Do you really want to exit?</source>
-          <target state="new">Do you really want to exit?</target>
+          <target state="new">Voulez-vous vraiment quitter?</target>
         </trans-unit>
         <trans-unit id="FactoryItem_0_Desc" translate="yes" xml:space="preserve">
           <source>The Colony Ship is designed for the planetary colonization. The ship itself is used up in the process. Construction will use 1 Population point of the planet.</source>
@@ -816,7 +816,7 @@
         </trans-unit>
         <trans-unit id="FactoryItem_0_Name" translate="yes" xml:space="preserve">
           <source>Colony Ship</source>
-          <target state="new">Colony Ship</target>
+          <target state="new">Vaisseau colon</target>
         </trans-unit>
         <trans-unit id="FactoryItem_1_Desc" translate="yes" xml:space="preserve">
           <source>Testing Unit</source>
@@ -832,7 +832,7 @@
         </trans-unit>
         <trans-unit id="FactoryItem_10_Name" translate="yes" xml:space="preserve">
           <source>Miner</source>
-          <target state="new">Miner</target>
+          <target state="new">Mineur</target>
         </trans-unit>
         <trans-unit id="FactoryItem_100_Desc" translate="yes" xml:space="preserve">
           <source>+{0}% Population</source>
@@ -840,11 +840,11 @@
         </trans-unit>
         <trans-unit id="FactoryItem_100_Name" translate="yes" xml:space="preserve">
           <source>Rich Habitat</source>
-          <target state="new">Rich Habitat</target>
+          <target state="new">Habitat riche</target>
         </trans-unit>
         <trans-unit id="FactoryItem_11_Desc" translate="yes" xml:space="preserve">
           <source>+{0}% Food</source>
-          <target state="new">+{0}% Food</target>
+          <target state="new">+{0}% Nourriture</target>
         </trans-unit>
         <trans-unit id="FactoryItem_11_Name" translate="yes" xml:space="preserve">
           <source>Food Efficiency</source>
@@ -860,7 +860,7 @@
         </trans-unit>
         <trans-unit id="FactoryItem_12_Desc" translate="yes" xml:space="preserve">
           <source>+{0} Food</source>
-          <target state="new">+{0} Food</target>
+          <target state="new">+{0} Nourriture</target>
         </trans-unit>
         <trans-unit id="FactoryItem_12_Name" translate="yes" xml:space="preserve">
           <source>Recycling Center</source>
@@ -872,7 +872,7 @@
         </trans-unit>
         <trans-unit id="FactoryItem_13_Name" translate="yes" xml:space="preserve">
           <source>Automation</source>
-          <target state="new">Automation</target>
+          <target state="new">Automatisation</target>
         </trans-unit>
         <trans-unit id="FactoryItem_14_Desc" translate="yes" xml:space="preserve">
           <source>+{0} Production per Population</source>
@@ -880,7 +880,7 @@
         </trans-unit>
         <trans-unit id="FactoryItem_14_Name" translate="yes" xml:space="preserve">
           <source>Robotics</source>
-          <target state="new">Robotics</target>
+          <target state="new">Robotique</target>
         </trans-unit>
         <trans-unit id="FactoryItem_15_Desc" translate="yes" xml:space="preserve">
           <source>+{0}% Production</source>
@@ -892,31 +892,31 @@
         </trans-unit>
         <trans-unit id="FactoryItem_16_Desc" translate="yes" xml:space="preserve">
           <source>+{0} Energy</source>
-          <target state="new">+{0} Energy</target>
+          <target state="new">+{0} Énergie</target>
         </trans-unit>
         <trans-unit id="FactoryItem_16_Name" translate="yes" xml:space="preserve">
           <source>Stirling Generator</source>
-          <target state="new">Stirling Generator</target>
+          <target state="new">Génerateur Stirling</target>
         </trans-unit>
         <trans-unit id="FactoryItem_17_Desc" translate="yes" xml:space="preserve">
           <source>+{0}% Energy</source>
-          <target state="new">+{0}% Energy</target>
+          <target state="new">+{0}% Énergie</target>
         </trans-unit>
         <trans-unit id="FactoryItem_17_Name" translate="yes" xml:space="preserve">
           <source>Energy Efficiency</source>
-          <target state="new">Energy Efficiency</target>
+          <target state="new">Efficacité énergétique</target>
         </trans-unit>
         <trans-unit id="FactoryItem_18_Desc" translate="yes" xml:space="preserve">
           <source>+{0} Energy per Population</source>
-          <target state="new">+{0} Energy per Population</target>
+          <target state="new">+{0} Énergie per Population</target>
         </trans-unit>
         <trans-unit id="FactoryItem_18_Name" translate="yes" xml:space="preserve">
           <source>Personal Reactor</source>
-          <target state="new">Personal Reactor</target>
+          <target state="new">Réacteur personnel</target>
         </trans-unit>
         <trans-unit id="FactoryItem_19_Desc" translate="yes" xml:space="preserve">
           <source>+{0} Energy</source>
-          <target state="new">+{0} Energy</target>
+          <target state="new">+{0} Énergie</target>
         </trans-unit>
         <trans-unit id="FactoryItem_19_Name" translate="yes" xml:space="preserve">
           <source>Tokamak</source>
@@ -924,11 +924,11 @@
         </trans-unit>
         <trans-unit id="FactoryItem_2_Desc" translate="yes" xml:space="preserve">
           <source>The Builder is designed for construction of stationary units.</source>
-          <target state="new">The Builder is designed for construction of stationary units.</target>
+          <target state="new">Le constructeur est conçu pour la construction d'unités stationaires.</target>
         </trans-unit>
         <trans-unit id="FactoryItem_2_Name" translate="yes" xml:space="preserve">
           <source>Builder</source>
-          <target state="new">Builder</target>
+          <target state="new">Constructeur</target>
         </trans-unit>
         <trans-unit id="FactoryItem_20_Desc" translate="yes" xml:space="preserve">
           <source>+{0} population</source>
@@ -944,31 +944,31 @@
         </trans-unit>
         <trans-unit id="FactoryItem_21_Name" translate="yes" xml:space="preserve">
           <source>Public Laboratory</source>
-          <target state="new">Public Laboratory</target>
+          <target state="new">Laboratoire publique</target>
         </trans-unit>
         <trans-unit id="FactoryItem_2100_Desc" translate="yes" xml:space="preserve">
           <source>+{0}% Energy</source>
-          <target state="new">+{0}% Energy</target>
+          <target state="new">+{0}% Énergie</target>
         </trans-unit>
         <trans-unit id="FactoryItem_2100_Name" translate="yes" xml:space="preserve">
           <source>Energy Exploitation</source>
-          <target state="new">Energy Exploitation</target>
+          <target state="new">Énergie Exploitation</target>
         </trans-unit>
         <trans-unit id="FactoryItem_22_Desc" translate="yes" xml:space="preserve">
           <source>+{0}% Research</source>
-          <target state="new">+{0}% Research</target>
+          <target state="new">+{0}% Recherche</target>
         </trans-unit>
         <trans-unit id="FactoryItem_22_Name" translate="yes" xml:space="preserve">
           <source>Virtual Network</source>
-          <target state="new">Virtual Network</target>
+          <target state="new">Réseau virtuel</target>
         </trans-unit>
         <trans-unit id="FactoryItem_23_Desc" translate="yes" xml:space="preserve">
           <source>+{0}, +{1}% Research</source>
-          <target state="new">+{0}, +{1}% Research</target>
+          <target state="new">+{0}, +{1}% Recherche</target>
         </trans-unit>
         <trans-unit id="FactoryItem_23_Name" translate="yes" xml:space="preserve">
           <source>Orbital Laboratory</source>
-          <target state="new">Orbital Laboratory</target>
+          <target state="new">Laboratoire orbital</target>
         </trans-unit>
         <trans-unit id="FactoryItem_24_Desc" translate="yes" xml:space="preserve">
           <source>+{0} Units Rank</source>
@@ -976,7 +976,7 @@
         </trans-unit>
         <trans-unit id="FactoryItem_24_Name" translate="yes" xml:space="preserve">
           <source>Starfleet Academy</source>
-          <target state="new">Starfleet Academy</target>
+          <target state="new">Académie de Starfleet</target>
         </trans-unit>
         <trans-unit id="FactoryItem_25_Desc" translate="yes" xml:space="preserve">
           <source>-{0}% Planet Upkeep</source>
@@ -992,31 +992,31 @@
         </trans-unit>
         <trans-unit id="FactoryItem_26_Name" translate="yes" xml:space="preserve">
           <source>Repair Facility</source>
-          <target state="new">Repair Facility</target>
+          <target state="new">Usine de réparation</target>
         </trans-unit>
         <trans-unit id="FactoryItem_27_Desc" translate="yes" xml:space="preserve">
           <source>+{0} Trade Route</source>
-          <target state="new">+{0} Trade Route</target>
+          <target state="new">+{0} route commerciale</target>
         </trans-unit>
         <trans-unit id="FactoryItem_27_Name" translate="yes" xml:space="preserve">
           <source>Trade Zone</source>
-          <target state="new">Trade Zone</target>
+          <target state="new">Zone de commerce</target>
         </trans-unit>
         <trans-unit id="FactoryItem_28_Desc" translate="yes" xml:space="preserve">
           <source>The freighter class is a cargo ship designed to carry goods and resources.</source>
-          <target state="new">The freighter class is a cargo ship designed to carry goods and resources.</target>
+          <target state="new">Le cargo est un vaisseau conçu pour le transport de ressources et de marchandises.</target>
         </trans-unit>
         <trans-unit id="FactoryItem_28_Name" translate="yes" xml:space="preserve">
           <source>Freighter</source>
-          <target state="new">Freighter</target>
+          <target state="new">Cargo</target>
         </trans-unit>
         <trans-unit id="FactoryItem_29_Desc" translate="yes" xml:space="preserve">
           <source>+{0} Trade Route, +{1}% Distance Bonus</source>
-          <target state="new">+{0} Trade Route, +{1}% Distance Bonus</target>
+          <target state="new">+{0} route commerciale, +{1}% bonus de distrance</target>
         </trans-unit>
         <trans-unit id="FactoryItem_29_Name" translate="yes" xml:space="preserve">
           <source>Expanded Market</source>
-          <target state="new">Expanded Market</target>
+          <target state="new">Commerce étendu</target>
         </trans-unit>
         <trans-unit id="FactoryItem_3_Desc" translate="yes" xml:space="preserve">
           <source>The scout class is a light combat unit designed for exploration and hit-and-run combat.</source>
@@ -1024,7 +1024,7 @@
         </trans-unit>
         <trans-unit id="FactoryItem_3_Name" translate="yes" xml:space="preserve">
           <source>Scout</source>
-          <target state="new">Scout</target>
+          <target state="new">Éclaireur</target>
         </trans-unit>
         <trans-unit id="FactoryItem_30_Desc" translate="yes" xml:space="preserve">
           <source>The Dyson Sphere is a megastructure around the star. You have to be very close to the star to build it.</source>
@@ -1032,15 +1032,15 @@
         </trans-unit>
         <trans-unit id="FactoryItem_30_Name" translate="yes" xml:space="preserve">
           <source>Dyson Sphere</source>
-          <target state="new">Dyson Sphere</target>
+          <target state="new">Sphère Dyson</target>
         </trans-unit>
         <trans-unit id="FactoryItem_31_Desc" translate="yes" xml:space="preserve">
           <source>+{0} Research</source>
-          <target state="new">+{0} Research</target>
+          <target state="new">+{0} Recherch</target>
         </trans-unit>
         <trans-unit id="FactoryItem_31_Name" translate="yes" xml:space="preserve">
           <source>Telescope</source>
-          <target state="new">Telescope</target>
+          <target state="new">Téléscope</target>
         </trans-unit>
         <trans-unit id="FactoryItem_3100_Desc" translate="yes" xml:space="preserve">
           <source>+{0} Unit Rank</source>
@@ -1056,7 +1056,7 @@
         </trans-unit>
         <trans-unit id="FactoryItem_4_Name" translate="yes" xml:space="preserve">
           <source>Carrier</source>
-          <target state="new">Carrier</target>
+          <target state="new">Transporteur</target>
         </trans-unit>
         <trans-unit id="FactoryItem_5_Desc" translate="yes" xml:space="preserve">
           <source>The battleship class is a large armored spaceship with a strong hull and shields, but weak weapons.</source>
@@ -1064,7 +1064,7 @@
         </trans-unit>
         <trans-unit id="FactoryItem_5_Name" translate="yes" xml:space="preserve">
           <source>Battleship</source>
-          <target state="new">Battleship</target>
+          <target state="new">Cuirassé</target>
         </trans-unit>
         <trans-unit id="FactoryItem_6_Desc" translate="yes" xml:space="preserve">
           <source>The destroyer class is a spaceship with superior weapons, but a weaker hull and shields.</source>
@@ -1080,7 +1080,7 @@
         </trans-unit>
         <trans-unit id="FactoryItem_7_Name" translate="yes" xml:space="preserve">
           <source>Frigate</source>
-          <target state="new">Frigate</target>
+          <target state="new">Frégate</target>
         </trans-unit>
         <trans-unit id="FactoryItem_8_Desc" translate="yes" xml:space="preserve">
           <source>Defense Tower is a stationary defense unit with a strong hull and weapons. There is a minimum distance between each tower or station in the system.</source>
@@ -1088,7 +1088,7 @@
         </trans-unit>
         <trans-unit id="FactoryItem_8_Name" translate="yes" xml:space="preserve">
           <source>Defense Tower</source>
-          <target state="new">Defense Tower</target>
+          <target state="new">Tour de défense</target>
         </trans-unit>
         <trans-unit id="FactoryItem_9_Desc" translate="yes" xml:space="preserve">
           <source>The Station is a stationary unit designed for exploration support. There is a minimum distance between each tower or station in the system.</source>
@@ -1100,11 +1100,11 @@
         </trans-unit>
         <trans-unit id="FactoryItem_Attributes" translate="yes" xml:space="preserve">
           <source>Attributes</source>
-          <target state="new">Attributes</target>
+          <target state="new">Attributs</target>
         </trans-unit>
         <trans-unit id="FactoryItem_UnitClass" translate="yes" xml:space="preserve">
           <source>Class</source>
-          <target state="new">Class</target>
+          <target state="new">Classe</target>
         </trans-unit>
         <trans-unit id="FactoryPanel_AvailProducts" translate="yes" xml:space="preserve">
           <source>FACTORY ITEMS</source>
@@ -1112,23 +1112,23 @@
         </trans-unit>
         <trans-unit id="FactoryPanel_BuildItem" translate="yes" xml:space="preserve">
           <source>BUILD</source>
-          <target state="new">BUILD</target>
+          <target state="new">CONSTRUIRE</target>
         </trans-unit>
         <trans-unit id="FactoryPanel_BuyItem" translate="yes" xml:space="preserve">
           <source>BUY</source>
-          <target state="new">BUY</target>
+          <target state="new">ACHETER</target>
         </trans-unit>
         <trans-unit id="FactoryPanel_CancelQueueTask" translate="yes" xml:space="preserve">
           <source>CANCEL TASK</source>
-          <target state="new">CANCEL TASK</target>
+          <target state="new">ANNULER LA TÂCHE</target>
         </trans-unit>
         <trans-unit id="FactoryPanel_ConstructionQueue" translate="yes" xml:space="preserve">
           <source>Queue</source>
-          <target state="new">Queue</target>
+          <target state="new">File</target>
         </trans-unit>
         <trans-unit id="FactoryPanel_EnergyCostToBuy" translate="yes" xml:space="preserve">
           <source>Energy Price</source>
-          <target state="new">Energy Price</target>
+          <target state="new">Énergie Price</target>
         </trans-unit>
         <trans-unit id="FactoryPanel_NeedsPrerequisite" translate="yes" xml:space="preserve">
           <source>You have to build the prerequisite first -</source>
@@ -1188,31 +1188,31 @@
         </trans-unit>
         <trans-unit id="FactoryPanel_Turns" translate="yes" xml:space="preserve">
           <source>Turns</source>
-          <target state="new">Turns</target>
+          <target state="new">Tours</target>
         </trans-unit>
         <trans-unit id="FactoryPanel_Units" translate="yes" xml:space="preserve">
           <source>Units</source>
-          <target state="new">Units</target>
+          <target state="new">Unités</target>
         </trans-unit>
         <trans-unit id="FactoryPanel_Upgrades" translate="yes" xml:space="preserve">
           <source>Upgrades</source>
-          <target state="new">Upgrades</target>
+          <target state="new">Améliorations</target>
         </trans-unit>
         <trans-unit id="FullscreenText" translate="yes" xml:space="preserve">
           <source>Fullscreen</source>
-          <target state="new">Fullscreen</target>
+          <target state="new">Plein-écran</target>
         </trans-unit>
         <trans-unit id="Galaxy_Asteroids" translate="yes" xml:space="preserve">
           <source>ASTEROID FIELD</source>
-          <target state="new">ASTEROID FIELD</target>
+          <target state="new">CHAMP D'ASTEROIDE</target>
         </trans-unit>
         <trans-unit id="Galaxy_BlackHole" translate="yes" xml:space="preserve">
           <source>BLACK HOLE</source>
-          <target state="new">BLACK HOLE</target>
+          <target state="new">TROU NOIR</target>
         </trans-unit>
         <trans-unit id="Galaxy_EmptySpace" translate="yes" xml:space="preserve">
           <source>DEEP SPACE</source>
-          <target state="new">DEEP SPACE</target>
+          <target state="new">Éspace lointain</target>
         </trans-unit>
         <trans-unit id="Galaxy_NebulaPrefix" translate="yes" xml:space="preserve">
           <source>HDC</source>
@@ -1228,7 +1228,7 @@
         </trans-unit>
         <trans-unit id="GalaxyPanel_Filter" translate="yes" xml:space="preserve">
           <source>Filter</source>
-          <target state="new">Filter</target>
+          <target state="new">Filtrer</target>
         </trans-unit>
         <trans-unit id="GalaxyPanel_HasTradeRoute" translate="yes" xml:space="preserve">
           <source>Turns to Trade expiration</source>
@@ -1240,11 +1240,11 @@
         </trans-unit>
         <trans-unit id="GalaxyPanel_Name" translate="yes" xml:space="preserve">
           <source>Name</source>
-          <target state="new">Name</target>
+          <target state="new">Nom</target>
         </trans-unit>
         <trans-unit id="GalaxyPanel_Planets" translate="yes" xml:space="preserve">
           <source>PLANETS</source>
-          <target state="new">PLANETS</target>
+          <target state="new">PLANÈTES</target>
         </trans-unit>
         <trans-unit id="GalaxyPanel_ShowPlanet" translate="yes" xml:space="preserve">
           <source>Show Planet</source>
@@ -1256,19 +1256,19 @@
         </trans-unit>
         <trans-unit id="GalaxyPanel_SortBy" translate="yes" xml:space="preserve">
           <source>Sort by</source>
-          <target state="new">Sort by</target>
+          <target state="new">Trier par</target>
         </trans-unit>
         <trans-unit id="GalaxyPanel_SortByEnergy" translate="yes" xml:space="preserve">
           <source>Energy</source>
-          <target state="new">Energy</target>
+          <target state="new">Énergie</target>
         </trans-unit>
         <trans-unit id="GalaxyPanel_SortByHull" translate="yes" xml:space="preserve">
           <source>Hull</source>
-          <target state="new">Hull</target>
+          <target state="new">Coque</target>
         </trans-unit>
         <trans-unit id="GalaxyPanel_SortByName" translate="yes" xml:space="preserve">
           <source>Name</source>
-          <target state="new">Name</target>
+          <target state="new">Nom</target>
         </trans-unit>
         <trans-unit id="GalaxyPanel_SortByPopulation" translate="yes" xml:space="preserve">
           <source>Population</source>
@@ -1280,11 +1280,11 @@
         </trans-unit>
         <trans-unit id="GalaxyPanel_SortByRank" translate="yes" xml:space="preserve">
           <source>Rank</source>
-          <target state="new">Rank</target>
+          <target state="new">Rang</target>
         </trans-unit>
         <trans-unit id="GalaxyPanel_SortSystem" translate="yes" xml:space="preserve">
           <source>Star System</source>
-          <target state="new">Star System</target>
+          <target state="new">Système solaire</target>
         </trans-unit>
         <trans-unit id="GalaxyPanel_Title" translate="yes" xml:space="preserve">
           <source>GALAXY OVERVIEW</source>
@@ -1296,11 +1296,11 @@
         </trans-unit>
         <trans-unit id="GalaxyPanel_UnitIsOnOrbit" translate="yes" xml:space="preserve">
           <source>Unit is on orbit</source>
-          <target state="new">Unit is on orbit</target>
+          <target state="new">Unité en orbite</target>
         </trans-unit>
         <trans-unit id="GalaxyPanel_Units" translate="yes" xml:space="preserve">
           <source>UNITS</source>
-          <target state="new">UNITS</target>
+          <target state="new">UNITÉS</target>
         </trans-unit>
         <trans-unit id="GalaxyPanel_WarpReadyIn" translate="yes" xml:space="preserve">
           <source>Turns to full Warp</source>
@@ -1312,7 +1312,7 @@
         </trans-unit>
         <trans-unit id="GermanText" translate="yes" xml:space="preserve">
           <source>Deutsch</source>
-          <target state="new">Deutsch</target>
+          <target state="new">Allemand</target>
         </trans-unit>
         <trans-unit id="GovPanel_BuildColonyShipCaption" translate="yes" xml:space="preserve">
           <source>Build Colony Ship</source>
@@ -1328,7 +1328,7 @@
         </trans-unit>
         <trans-unit id="GovPanel_ConQueueColumn" translate="yes" xml:space="preserve">
           <source>CONSTRUCTION QUEUE</source>
-          <target state="new">CONSTRUCTION QUEUE</target>
+          <target state="new">FILE DE CONSTRUCTION</target>
         </trans-unit>
         <trans-unit id="GovPanel_ExploredSystems" translate="yes" xml:space="preserve">
           <source>Explored Systems</source>
@@ -1336,11 +1336,11 @@
         </trans-unit>
         <trans-unit id="GovPanel_Filter" translate="yes" xml:space="preserve">
           <source>Filter -</source>
-          <target state="new">Filter -</target>
+          <target state="new">Filtrer -</target>
         </trans-unit>
         <trans-unit id="GovPanel_HomePlanet" translate="yes" xml:space="preserve">
           <source>Home Planet</source>
-          <target state="new">Home Planet</target>
+          <target state="new">Planète mère</target>
         </trans-unit>
         <trans-unit id="GovPanel_MaxUnitsOnOrbit" translate="yes" xml:space="preserve">
           <source>Max Units on Orbit</source>
@@ -1348,7 +1348,7 @@
         </trans-unit>
         <trans-unit id="GovPanel_NameColumn" translate="yes" xml:space="preserve">
           <source>NAME</source>
-          <target state="new">NAME</target>
+          <target state="new">NOM</target>
         </trans-unit>
         <trans-unit id="GovPanel_PlanColumn" translate="yes" xml:space="preserve">
           <source>PLAN</source>
@@ -1380,7 +1380,7 @@
         </trans-unit>
         <trans-unit id="GovPanel_RaceState" translate="yes" xml:space="preserve">
           <source>State</source>
-          <target state="new">State</target>
+          <target state="new">Nation</target>
         </trans-unit>
         <trans-unit id="GovPanel_ScannedPlanets" translate="yes" xml:space="preserve">
           <source>Scanned Planets</source>
@@ -1424,7 +1424,7 @@
         </trans-unit>
         <trans-unit id="GovPanel_UnitsColumn" translate="yes" xml:space="preserve">
           <source>UNITS</source>
-          <target state="new">UNITS</target>
+          <target state="new">UNITÉS</target>
         </trans-unit>
         <trans-unit id="GovPanel_UnitsDestroyed" translate="yes" xml:space="preserve">
           <source>Enemies Destroyed</source>
@@ -1440,19 +1440,19 @@
         </trans-unit>
         <trans-unit id="HotseatPanel_Cancel" translate="yes" xml:space="preserve">
           <source>CANCEL</source>
-          <target state="new">CANCEL</target>
+          <target state="new">ANNULER</target>
         </trans-unit>
         <trans-unit id="HotseatPanel_ChangePassword" translate="yes" xml:space="preserve">
           <source>CHANGE PASSWORD</source>
-          <target state="new">CHANGE PASSWORD</target>
+          <target state="new">CHANGER LE MOT DE PASSSE</target>
         </trans-unit>
         <trans-unit id="HotseatPanel_ConfirmPassword" translate="yes" xml:space="preserve">
           <source>Confirm Password:</source>
-          <target state="new">Confirm Password:</target>
+          <target state="new">Confirmer le mot de passe:</target>
         </trans-unit>
         <trans-unit id="HotseatPanel_Continue" translate="yes" xml:space="preserve">
           <source>CONTINUE</source>
-          <target state="new">CONTINUE</target>
+          <target state="new">CONTINUER</target>
         </trans-unit>
         <trans-unit id="HotseatPanel_OK" translate="yes" xml:space="preserve">
           <source>OK</source>
@@ -1460,11 +1460,11 @@
         </trans-unit>
         <trans-unit id="HotseatPanel_OldPassword" translate="yes" xml:space="preserve">
           <source>Old Password:</source>
-          <target state="new">Old Password:</target>
+          <target state="new">Ancien mot de passe:</target>
         </trans-unit>
         <trans-unit id="HotseatPanel_Password" translate="yes" xml:space="preserve">
           <source>Password:</source>
-          <target state="new">Password:</target>
+          <target state="new">Mot de passe:</target>
         </trans-unit>
         <trans-unit id="HotseatPanel_SetPassword" translate="yes" xml:space="preserve">
           <source>SET PASSWORD</source>
@@ -1484,23 +1484,23 @@
         </trans-unit>
         <trans-unit id="HUD_CriticalReports" translate="yes" xml:space="preserve">
           <source>Critical Reports</source>
-          <target state="new">Critical Reports</target>
+          <target state="new">Rapports critiques</target>
         </trans-unit>
         <trans-unit id="HUD_CurrentTurn" translate="yes" xml:space="preserve">
           <source>Turns</source>
-          <target state="new">Turns</target>
+          <target state="new">Tours</target>
         </trans-unit>
         <trans-unit id="HUD_DiplomacyButton" translate="yes" xml:space="preserve">
           <source>Diplomacy (F6)</source>
-          <target state="new">Diplomacy (F6)</target>
+          <target state="new">Diplomacie (F6)</target>
         </trans-unit>
         <trans-unit id="HUD_GovernmentButton" translate="yes" xml:space="preserve">
           <source>Government (F2)</source>
-          <target state="new">Government (F2)</target>
+          <target state="new">Gouvernement (F2)</target>
         </trans-unit>
         <trans-unit id="HUD_InfoReports" translate="yes" xml:space="preserve">
           <source>Info Reports</source>
-          <target state="new">Info Reports</target>
+          <target state="new">Rapports d'information</target>
         </trans-unit>
         <trans-unit id="HUD_MenuButton" translate="yes" xml:space="preserve">
           <source>Menu (ESC)</source>
@@ -1508,7 +1508,7 @@
         </trans-unit>
         <trans-unit id="HUD_MilitaryButton" translate="yes" xml:space="preserve">
           <source>Military (F3)</source>
-          <target state="new">Military (F3)</target>
+          <target state="new">Militaire (F3)</target>
         </trans-unit>
         <trans-unit id="HUD_MissionsButton" translate="yes" xml:space="preserve">
           <source>Missions (F7)</source>
@@ -1516,27 +1516,27 @@
         </trans-unit>
         <trans-unit id="HUD_NextTurn" translate="yes" xml:space="preserve">
           <source>NEXT TURN</source>
-          <target state="new">NEXT TURN</target>
+          <target state="new">TOUR SUIVANT</target>
         </trans-unit>
         <trans-unit id="HUD_PlayerEnergy" translate="yes" xml:space="preserve">
           <source>Energy</source>
-          <target state="new">Energy</target>
+          <target state="new">Énergie</target>
         </trans-unit>
         <trans-unit id="HUD_PlayerEnergyDesc" translate="yes" xml:space="preserve">
           <source>Energy is your main currency. You need it to be able to buy starships and planet constructions and to keep everything running. You can get more energy by colonizing new planets and building energy constructions.</source>
-          <target state="new">Energy is your main currency. You need it to be able to buy starships and planet constructions and to keep everything running. You can get more energy by colonizing new planets and building energy constructions.</target>
+          <target state="new">Énergie is your main currency. You need it to be able to buy starships and planet constructions and to keep everything running. You can get more énergie by colonizing new planets and building énergie constructions.</target>
         </trans-unit>
         <trans-unit id="HUD_PlayerEnergyIncome" translate="yes" xml:space="preserve">
           <source>Total Energy Income</source>
-          <target state="new">Total Energy Income</target>
+          <target state="new">Total énergie Income</target>
         </trans-unit>
         <trans-unit id="HUD_PlayerEnergyPlanetsIncome" translate="yes" xml:space="preserve">
           <source>Energy Income from Planets</source>
-          <target state="new">Energy Income from Planets</target>
+          <target state="new">énergie Income from Planets</target>
         </trans-unit>
         <trans-unit id="HUD_PlayerEnergyReport" translate="yes" xml:space="preserve">
           <source>Energy Report</source>
-          <target state="new">Energy Report</target>
+          <target state="new">énergie Report</target>
         </trans-unit>
         <trans-unit id="HUD_PlayerIntelligence" translate="yes" xml:space="preserve">
           <source>Intelligence</source>
@@ -1548,11 +1548,11 @@
         </trans-unit>
         <trans-unit id="HUD_PlayerMaxEnergy" translate="yes" xml:space="preserve">
           <source>Max Energy</source>
-          <target state="new">Max Energy</target>
+          <target state="new">Max énergie</target>
         </trans-unit>
         <trans-unit id="HUD_PlayerResearch" translate="yes" xml:space="preserve">
           <source>Research</source>
-          <target state="new">Research</target>
+          <target state="new">Recherche</target>
         </trans-unit>
         <trans-unit id="HUD_PlayerResearchDesc" translate="yes" xml:space="preserve">
           <source>Research is used to unlock new technologies. It's generated based on your total population. You can get more by building research or population constructions.</source>
@@ -1592,11 +1592,11 @@
         </trans-unit>
         <trans-unit id="HUD_ResearchButton" translate="yes" xml:space="preserve">
           <source>Research (F4)</source>
-          <target state="new">Research (F4)</target>
+          <target state="new">Rechercher (F4)</target>
         </trans-unit>
         <trans-unit id="HUD_SearchButton" translate="yes" xml:space="preserve">
           <source>Search</source>
-          <target state="new">Search</target>
+          <target state="new">Chercher</target>
         </trans-unit>
         <trans-unit id="HUD_SelectResearch" translate="yes" xml:space="preserve">
           <source>SELECT RESEARCH</source>
@@ -1604,11 +1604,11 @@
         </trans-unit>
         <trans-unit id="HUD_ShowEndTurnReport" translate="yes" xml:space="preserve">
           <source>Reports</source>
-          <target state="new">Reports</target>
+          <target state="new">Rapports</target>
         </trans-unit>
         <trans-unit id="HUD_TradeButton" translate="yes" xml:space="preserve">
           <source>Trade (F5)</source>
-          <target state="new">Trade (F5)</target>
+          <target state="new">Commerce (F5)</target>
         </trans-unit>
         <trans-unit id="HUD_UnitAlertMode" translate="yes" xml:space="preserve">
           <source>Alert Mode</source>
@@ -1616,7 +1616,7 @@
         </trans-unit>
         <trans-unit id="HUD_UnitAttack" translate="yes" xml:space="preserve">
           <source>Attack</source>
-          <target state="new">Attack</target>
+          <target state="new">Attaquer</target>
         </trans-unit>
         <trans-unit id="HUD_UnitAttackDisabled" translate="yes" xml:space="preserve">
           <source>You do not have available points in Weapons.</source>
@@ -1632,11 +1632,11 @@
         </trans-unit>
         <trans-unit id="HUD_UnitColonize" translate="yes" xml:space="preserve">
           <source>Colonize</source>
-          <target state="new">Colonize</target>
+          <target state="new">Coloniser</target>
         </trans-unit>
         <trans-unit id="HUD_UnitDestroy" translate="yes" xml:space="preserve">
           <source>Destroy</source>
-          <target state="new">Destroy</target>
+          <target state="new">Détruire</target>
         </trans-unit>
         <trans-unit id="HUD_UnitDoNothing" translate="yes" xml:space="preserve">
           <source>Do Nothing This Turn</source>
@@ -1656,7 +1656,7 @@
         </trans-unit>
         <trans-unit id="HUD_UnitExplore" translate="yes" xml:space="preserve">
           <source>Explore</source>
-          <target state="new">Explore</target>
+          <target state="new">Explorer</target>
         </trans-unit>
         <trans-unit id="HUD_UnitExtractResources" translate="yes" xml:space="preserve">
           <source>Extract Resources</source>
@@ -1668,11 +1668,11 @@
         </trans-unit>
         <trans-unit id="HUD_UnitMiniWarpJumpDisabled" translate="yes" xml:space="preserve">
           <source>You do not have enough points in Warp Energy.</source>
-          <target state="new">You do not have enough points in Warp Energy.</target>
+          <target state="new">You do not have enough points in Warp énergie.</target>
         </trans-unit>
         <trans-unit id="HUD_UnitMove" translate="yes" xml:space="preserve">
           <source>Move</source>
-          <target state="new">Move</target>
+          <target state="new">Déplacer</target>
         </trans-unit>
         <trans-unit id="HUD_UnitMoveDisabled" translate="yes" xml:space="preserve">
           <source>You do not have available points in Engines.</source>
@@ -1688,7 +1688,7 @@
         </trans-unit>
         <trans-unit id="HUD_UnitScanResources" translate="yes" xml:space="preserve">
           <source>Scan</source>
-          <target state="new">Scan</target>
+          <target state="new">Scanner</target>
         </trans-unit>
         <trans-unit id="HUD_UnitShieldRecharge" translate="yes" xml:space="preserve">
           <source>Shields Recharge</source>
@@ -1724,11 +1724,11 @@
         </trans-unit>
         <trans-unit id="LanguageText" translate="yes" xml:space="preserve">
           <source>Language</source>
-          <target state="new">Language</target>
+          <target state="new">Langue</target>
         </trans-unit>
         <trans-unit id="LayerPanel_Units" translate="yes" xml:space="preserve">
           <source>UNITS</source>
-          <target state="new">UNITS</target>
+          <target state="new">UNITÉS</target>
         </trans-unit>
         <trans-unit id="LoadErrorText" translate="yes" xml:space="preserve">
           <source>There was an error while loading. Sorry for that.</source>
@@ -1736,15 +1736,15 @@
         </trans-unit>
         <trans-unit id="LoadGameButtonText" translate="yes" xml:space="preserve">
           <source>LOAD</source>
-          <target state="new">LOAD</target>
+          <target state="new">CHARGER</target>
         </trans-unit>
         <trans-unit id="LoadGameText" translate="yes" xml:space="preserve">
           <source>LOAD GAME</source>
-          <target state="new">LOAD GAME</target>
+          <target state="new">CHARGER LA PARTIE</target>
         </trans-unit>
         <trans-unit id="LoadPanel_Cancel" translate="yes" xml:space="preserve">
           <source>CANCEL</source>
-          <target state="new">CANCEL</target>
+          <target state="new">ANNULER</target>
         </trans-unit>
         <trans-unit id="LoadPanel_WrongVersion" translate="yes" xml:space="preserve">
           <source>This save is not compatible. You can't load it.</source>
@@ -1752,19 +1752,19 @@
         </trans-unit>
         <trans-unit id="LogoLayerImageCategory_0" translate="yes" xml:space="preserve">
           <source>Shapes</source>
-          <target state="new">Shapes</target>
+          <target state="new">Formes</target>
         </trans-unit>
         <trans-unit id="LogoLayerImageCategory_1" translate="yes" xml:space="preserve">
           <source>Shields</source>
-          <target state="new">Shields</target>
+          <target state="new">Boucliers</target>
         </trans-unit>
         <trans-unit id="LogoLayerImageCategory_2" translate="yes" xml:space="preserve">
           <source>Birds</source>
-          <target state="new">Birds</target>
+          <target state="new">Oiseaux</target>
         </trans-unit>
         <trans-unit id="LogoLayerImageCategory_3" translate="yes" xml:space="preserve">
           <source>Others</source>
-          <target state="new">Others</target>
+          <target state="new">Autres</target>
         </trans-unit>
         <trans-unit id="MainMenu_Version" translate="yes" xml:space="preserve">
           <source>EARLY ACCESS version {0}</source>
@@ -1776,15 +1776,15 @@
         </trans-unit>
         <trans-unit id="MasterVolumeText" translate="yes" xml:space="preserve">
           <source>Master Volume</source>
-          <target state="new">Master Volume</target>
+          <target state="new">Volume principal</target>
         </trans-unit>
         <trans-unit id="MessageBoxButtonCancel" translate="yes" xml:space="preserve">
           <source>CANCEL</source>
-          <target state="new">CANCEL</target>
+          <target state="new">ANNULER</target>
         </trans-unit>
         <trans-unit id="MessageBoxButtonNo" translate="yes" xml:space="preserve">
           <source>NO</source>
-          <target state="new">NO</target>
+          <target state="new">NON</target>
         </trans-unit>
         <trans-unit id="MessageBoxButtonOK" translate="yes" xml:space="preserve">
           <source>OK</source>
@@ -1792,7 +1792,7 @@
         </trans-unit>
         <trans-unit id="MessageBoxButtonYes" translate="yes" xml:space="preserve">
           <source>YES</source>
-          <target state="new">YES</target>
+          <target state="new">OUI</target>
         </trans-unit>
         <trans-unit id="MilitaryPanel_Units" translate="yes" xml:space="preserve">
           <source>Military Units</source>
@@ -1844,7 +1844,7 @@
         </trans-unit>
         <trans-unit id="Mission_1001_Desc" translate="yes" xml:space="preserve">
           <source>Your scan detected very rare particle with kinetic energy greater than 1x10^18 eV. This will boost your technology progress.</source>
-          <target state="new">Your scan detected very rare particle with kinetic energy greater than 1x10^18 eV. This will boost your technology progress.</target>
+          <target state="new">Your scan detected very rare particle with kinetic énergie greater than 1x10^18 eV. This will boost your technology progress.</target>
         </trans-unit>
         <trans-unit id="Mission_1001_Name" translate="yes" xml:space="preserve">
           <source>Rare Particles</source>
@@ -1852,11 +1852,11 @@
         </trans-unit>
         <trans-unit id="Mission_1002_Desc" translate="yes" xml:space="preserve">
           <source>We have found a region with very high amount of energy particles.</source>
-          <target state="new">We have found a region with very high amount of energy particles.</target>
+          <target state="new">We have found a region with very high amount of énergie particles.</target>
         </trans-unit>
         <trans-unit id="Mission_1002_Name" translate="yes" xml:space="preserve">
           <source>Energy Region</source>
-          <target state="new">Energy Region</target>
+          <target state="new">énergie Region</target>
         </trans-unit>
         <trans-unit id="Mission_1003_Desc" translate="yes" xml:space="preserve">
           <source>We believe we have found a lost cargo and managed to extract a rare resource from it. Or was that someone else's trash?</source>
@@ -1928,7 +1928,7 @@
         </trans-unit>
         <trans-unit id="Mission_5_Name" translate="yes" xml:space="preserve">
           <source>Dyson Sphere</source>
-          <target state="new">Dyson Sphere</target>
+          <target state="new">Sphère Dyson</target>
         </trans-unit>
         <trans-unit id="Mission_999_Desc" translate="yes" xml:space="preserve">
           <source>You have found a space anomaly. Scan it to find out more.</source>
@@ -1940,19 +1940,19 @@
         </trans-unit>
         <trans-unit id="MissionsPanel_Finished" translate="yes" xml:space="preserve">
           <source>FINISHED</source>
-          <target state="new">FINISHED</target>
+          <target state="new">TERMINÉE</target>
         </trans-unit>
         <trans-unit id="MissionsPanel_InProgress" translate="yes" xml:space="preserve">
           <source>IN PROGRESS</source>
-          <target state="new">IN PROGRESS</target>
+          <target state="new">EN COURS</target>
         </trans-unit>
         <trans-unit id="MissionsPanel_Lost" translate="yes" xml:space="preserve">
           <source>YOU LOST!</source>
-          <target state="new">YOU LOST!</target>
+          <target state="new">VOUS AVEZ PERDU!</target>
         </trans-unit>
         <trans-unit id="MissionsPanel_Rewards" translate="yes" xml:space="preserve">
           <source>Rewards</source>
-          <target state="new">Rewards</target>
+          <target state="new">Récompenses</target>
         </trans-unit>
         <trans-unit id="MissionsPanel_ScoreReward" translate="yes" xml:space="preserve">
           <source>Score</source>
@@ -1972,15 +1972,15 @@
         </trans-unit>
         <trans-unit id="MissionsPanel_Victories" translate="yes" xml:space="preserve">
           <source>VICTORIES</source>
-          <target state="new">VICTORIES</target>
+          <target state="new">VICTOIRES</target>
         </trans-unit>
         <trans-unit id="MissionsPanel_Victory" translate="yes" xml:space="preserve">
           <source>YOU ARE VICTORIOUS!</source>
-          <target state="new">YOU ARE VICTORIOUS!</target>
+          <target state="new">VOUS ÊTES VICTORIEUX!</target>
         </trans-unit>
         <trans-unit id="Mods_ActiveMods" translate="yes" xml:space="preserve">
           <source>Active Mods</source>
-          <target state="new">Active Mods</target>
+          <target state="new">Activer les mods</target>
         </trans-unit>
         <trans-unit id="Mods_ChangeNote" translate="yes" xml:space="preserve">
           <source>Change Note</source>
@@ -1988,11 +1988,11 @@
         </trans-unit>
         <trans-unit id="Mods_Create" translate="yes" xml:space="preserve">
           <source>CREATE MOD</source>
-          <target state="new">CREATE MOD</target>
+          <target state="new">CRÉER UN MOD</target>
         </trans-unit>
         <trans-unit id="Mods_DoubleClickToActivate" translate="yes" xml:space="preserve">
           <source>double-click to Activate</source>
-          <target state="new">double-click to Activate</target>
+          <target state="new">double-clic pour activater</target>
         </trans-unit>
         <trans-unit id="Mods_ErrorMessage" translate="yes" xml:space="preserve">
           <source>There was an error:</source>
@@ -2000,7 +2000,7 @@
         </trans-unit>
         <trans-unit id="Mods_Folder" translate="yes" xml:space="preserve">
           <source>Folder</source>
-          <target state="new">Folder</target>
+          <target state="new">Dossier</target>
         </trans-unit>
         <trans-unit id="Mods_Management" translate="yes" xml:space="preserve">
           <source>MANAGEMENT</source>
@@ -2024,15 +2024,15 @@
         </trans-unit>
         <trans-unit id="Mods_ModRemove" translate="yes" xml:space="preserve">
           <source>Deactivate Mod</source>
-          <target state="new">Deactivate Mod</target>
+          <target state="new">Désactivater le mod</target>
         </trans-unit>
         <trans-unit id="Mods_ModUpload" translate="yes" xml:space="preserve">
           <source>Upload Mod</source>
-          <target state="new">Upload Mod</target>
+          <target state="new">Téléverser le mod</target>
         </trans-unit>
         <trans-unit id="Mods_ModUploading" translate="yes" xml:space="preserve">
           <source>Uploading...</source>
-          <target state="new">Uploading...</target>
+          <target state="new">Téléversement...</target>
         </trans-unit>
         <trans-unit id="Mods_SubscribedMods" translate="yes" xml:space="preserve">
           <source>Subscribed Mods</source>
@@ -2044,7 +2044,7 @@
         </trans-unit>
         <trans-unit id="Mods_Tag_AI" translate="yes" xml:space="preserve">
           <source>AI</source>
-          <target state="new">AI</target>
+          <target state="new">IA</target>
         </trans-unit>
         <trans-unit id="Mods_Tag_Configuration" translate="yes" xml:space="preserve">
           <source>Configuration</source>
@@ -2052,7 +2052,7 @@
         </trans-unit>
         <trans-unit id="Mods_Tag_Diplomacy" translate="yes" xml:space="preserve">
           <source>Diplomacy</source>
-          <target state="new">Diplomacy</target>
+          <target state="new">Diplomacie</target>
         </trans-unit>
         <trans-unit id="Mods_Tag_Factory" translate="yes" xml:space="preserve">
           <source>Factory</source>
@@ -2060,11 +2060,11 @@
         </trans-unit>
         <trans-unit id="Mods_Tag_Galaxy" translate="yes" xml:space="preserve">
           <source>Galaxy</source>
-          <target state="new">Galaxy</target>
+          <target state="new">Galaxie</target>
         </trans-unit>
         <trans-unit id="Mods_Tag_Graphics" translate="yes" xml:space="preserve">
           <source>Graphics</source>
-          <target state="new">Graphics</target>
+          <target state="new">Graphismes</target>
         </trans-unit>
         <trans-unit id="Mods_Tag_Mission" translate="yes" xml:space="preserve">
           <source>Mission</source>
@@ -2080,7 +2080,7 @@
         </trans-unit>
         <trans-unit id="Mods_Tag_Planet" translate="yes" xml:space="preserve">
           <source>Planet</source>
-          <target state="new">Planet</target>
+          <target state="new">Planète</target>
         </trans-unit>
         <trans-unit id="Mods_Tag_Race" translate="yes" xml:space="preserve">
           <source>Race</source>
@@ -2088,7 +2088,7 @@
         </trans-unit>
         <trans-unit id="Mods_Tag_RareResource" translate="yes" xml:space="preserve">
           <source>Rare Resource</source>
-          <target state="new">Rare Resource</target>
+          <target state="new">Resource rare</target>
         </trans-unit>
         <trans-unit id="Mods_Tag_SetupConfiguration" translate="yes" xml:space="preserve">
           <source>Setup Configuration</source>
@@ -2108,7 +2108,7 @@
         </trans-unit>
         <trans-unit id="Mods_Tag_Technology" translate="yes" xml:space="preserve">
           <source>Technology</source>
-          <target state="new">Technology</target>
+          <target state="new">Technologie</target>
         </trans-unit>
         <trans-unit id="Mods_Tag_TotalConversion" translate="yes" xml:space="preserve">
           <source>Total Conversion</source>
@@ -2116,15 +2116,15 @@
         </trans-unit>
         <trans-unit id="Mods_Tag_Trade" translate="yes" xml:space="preserve">
           <source>Trade</source>
-          <target state="new">Trade</target>
+          <target state="new">Commerce</target>
         </trans-unit>
         <trans-unit id="Mods_Tag_Translation" translate="yes" xml:space="preserve">
           <source>Translation</source>
-          <target state="new">Translation</target>
+          <target state="new">Traduction</target>
         </trans-unit>
         <trans-unit id="Mods_Tag_Tutorial" translate="yes" xml:space="preserve">
           <source>Tutorial</source>
-          <target state="new">Tutorial</target>
+          <target state="new">Didacticiel</target>
         </trans-unit>
         <trans-unit id="Mods_Tag_UnitUpgrade" translate="yes" xml:space="preserve">
           <source>Unit Upgrade</source>
@@ -2136,7 +2136,7 @@
         </trans-unit>
         <trans-unit id="Mods_Title" translate="yes" xml:space="preserve">
           <source>Title</source>
-          <target state="new">Title</target>
+          <target state="new">Titre</target>
         </trans-unit>
         <trans-unit id="Mods_UploadDetails" translate="yes" xml:space="preserve">
           <source>Upload Details</source>
@@ -2168,7 +2168,7 @@
         </trans-unit>
         <trans-unit id="MultiplayerText" translate="yes" xml:space="preserve">
           <source>MULTIPLAYER</source>
-          <target state="new">MULTIPLAYER</target>
+          <target state="new">MULTIJOUEUR</target>
         </trans-unit>
         <trans-unit id="MusicVolumeText" translate="yes" xml:space="preserve">
           <source>Music Volume</source>
@@ -2176,7 +2176,7 @@
         </trans-unit>
         <trans-unit id="NewGame_Campaign" translate="yes" xml:space="preserve">
           <source>CAMPAIGN</source>
-          <target state="new">CAMPAIGN</target>
+          <target state="new">CAMPAGNE</target>
         </trans-unit>
         <trans-unit id="NewGame_Custom" translate="yes" xml:space="preserve">
           <source>CUSTOM</source>
@@ -2184,11 +2184,11 @@
         </trans-unit>
         <trans-unit id="NewGame_Tutorial" translate="yes" xml:space="preserve">
           <source>TUTORIAL</source>
-          <target state="new">TUTORIAL</target>
+          <target state="new">DIDACTICIEL</target>
         </trans-unit>
         <trans-unit id="NewGameText" translate="yes" xml:space="preserve">
           <source>NEW GAME</source>
-          <target state="new">NEW GAME</target>
+          <target state="new">NOUVEAU JEU</target>
         </trans-unit>
         <trans-unit id="NextTurnErrorText" translate="yes" xml:space="preserve">
           <source>There was an error while processing the last turn. The current session will be closed. Sorry for that.</source>
@@ -2196,7 +2196,7 @@
         </trans-unit>
         <trans-unit id="Options_UISize" translate="yes" xml:space="preserve">
           <source>UI Size</source>
-          <target state="new">UI Size</target>
+          <target state="new">Taille de l'interface</target>
         </trans-unit>
         <trans-unit id="Options_UISize_Large" translate="yes" xml:space="preserve">
           <source>Large</source>
@@ -2244,7 +2244,7 @@
         </trans-unit>
         <trans-unit id="OrbitPanel_Orbit" translate="yes" xml:space="preserve">
           <source>ORBIT</source>
-          <target state="new">ORBIT</target>
+          <target state="new">ORBITE</target>
         </trans-unit>
         <trans-unit id="OrbitPanel_RemoveUnitsStrikeGroup" translate="yes" xml:space="preserve">
           <source>REMOVE UNITS FROM STRIKE GROUP</source>
@@ -2272,15 +2272,15 @@
         </trans-unit>
         <trans-unit id="PlanetPanel_Energy" translate="yes" xml:space="preserve">
           <source>Energy</source>
-          <target state="new">Energy</target>
+          <target state="new">énergie</target>
         </trans-unit>
         <trans-unit id="PlanetPanel_EnergyAI" translate="yes" xml:space="preserve">
           <source>Energy</source>
-          <target state="new">Energy</target>
+          <target state="new">énergie</target>
         </trans-unit>
         <trans-unit id="PlanetPanel_EnergyDesc" translate="yes" xml:space="preserve">
           <source>Energy is a main income. It's used by production and on maintenance of constructions. The rest goes to energy storage of the player.</source>
-          <target state="new">Energy is a main income. It's used by production and on maintenance of constructions. The rest goes to energy storage of the player.</target>
+          <target state="new">énergie is a main income. It's used by production and on maintenance of constructions. The rest goes to énergie storage of the player.</target>
         </trans-unit>
         <trans-unit id="PlanetPanel_Intelligence" translate="yes" xml:space="preserve">
           <source>Intelligence</source>
@@ -2292,7 +2292,7 @@
         </trans-unit>
         <trans-unit id="PlanetPanel_Mass" translate="yes" xml:space="preserve">
           <source>Mass</source>
-          <target state="new">Mass</target>
+          <target state="new">Masse</target>
         </trans-unit>
         <trans-unit id="PlanetPanel_NoneAI" translate="yes" xml:space="preserve">
           <source>None</source>
@@ -2300,7 +2300,7 @@
         </trans-unit>
         <trans-unit id="PlanetPanel_OrbitalPeriod" translate="yes" xml:space="preserve">
           <source>Orbit</source>
-          <target state="new">Orbit</target>
+          <target state="new">Orbite</target>
         </trans-unit>
         <trans-unit id="PlanetPanel_PlanetTypeDesc" translate="yes" xml:space="preserve">
           <source>Planet type is an important attribute. Based on the planet type you get more or less population, production, research and intelligence growth.</source>
@@ -2316,7 +2316,7 @@
         </trans-unit>
         <trans-unit id="PlanetPanel_PopulationDesc" translate="yes" xml:space="preserve">
           <source>Population is a main attribute of every planet. More population means more energy, production, research and intelligence. Growth is based on the food attribute and a type of the planet.</source>
-          <target state="new">Population is a main attribute of every planet. More population means more energy, production, research and intelligence. Growth is based on the food attribute and a type of the planet.</target>
+          <target state="new">Population is a main attribute of every planet. More population means more énergie, production, research and intelligence. Growth is based on the food attribute and a type of the planet.</target>
         </trans-unit>
         <trans-unit id="PlanetPanel_PopulationGrowth" translate="yes" xml:space="preserve">
           <source>Population Growth</source>
@@ -2324,7 +2324,7 @@
         </trans-unit>
         <trans-unit id="PlanetPanel_Preference" translate="yes" xml:space="preserve">
           <source>Preference</source>
-          <target state="new">Preference</target>
+          <target state="new">Préférence</target>
         </trans-unit>
         <trans-unit id="PlanetPanel_PreferenceDesc" translate="yes" xml:space="preserve">
           <source>Preference is a population growth modifier. Lower preference means slower population growth. Every race has different preferences.</source>
@@ -2340,23 +2340,23 @@
         </trans-unit>
         <trans-unit id="PlanetPanel_ProductionDesc" translate="yes" xml:space="preserve">
           <source>Production is used for building starships and planet constructions. Production needs energy. More production means faster building. Growth is based on a type of the planet.</source>
-          <target state="new">Production is used for building starships and planet constructions. Production needs energy. More production means faster building. Growth is based on a type of the planet.</target>
+          <target state="new">Production is used for building starships and planet constructions. Production needs énergie. More production means faster building. Growth is based on a type of the planet.</target>
         </trans-unit>
         <trans-unit id="PlanetPanel_Radius" translate="yes" xml:space="preserve">
           <source>Radius</source>
-          <target state="new">Radius</target>
+          <target state="new">Rayon</target>
         </trans-unit>
         <trans-unit id="PlanetPanel_RareResources" translate="yes" xml:space="preserve">
           <source>Rare Resources</source>
-          <target state="new">Rare Resources</target>
+          <target state="new">Ressources rares</target>
         </trans-unit>
         <trans-unit id="PlanetPanel_Research" translate="yes" xml:space="preserve">
           <source>Research</source>
-          <target state="new">Research</target>
+          <target state="new">Recherche</target>
         </trans-unit>
         <trans-unit id="PlanetPanel_ResearchAI" translate="yes" xml:space="preserve">
           <source>Research</source>
-          <target state="new">Research</target>
+          <target state="new">Recherche</target>
         </trans-unit>
         <trans-unit id="PlanetPanel_ResearchDesc" translate="yes" xml:space="preserve">
           <source>Research is used to unlock new technologies. More population means more research. Growth is based on a type of the planet.</source>
@@ -2364,7 +2364,7 @@
         </trans-unit>
         <trans-unit id="PlanetPanel_Resources" translate="yes" xml:space="preserve">
           <source>Food</source>
-          <target state="new">Food</target>
+          <target state="new">Nourriture</target>
         </trans-unit>
         <trans-unit id="PlanetPanel_ResourcesDesc" translate="yes" xml:space="preserve">
           <source>Food is used by population. More food means faster growth.</source>
@@ -2384,7 +2384,7 @@
         </trans-unit>
         <trans-unit id="PlanetPanel_SurfaceGravity" translate="yes" xml:space="preserve">
           <source>Gravity</source>
-          <target state="new">Gravity</target>
+          <target state="new">Gravité</target>
         </trans-unit>
         <trans-unit id="PlanetPanel_Type" translate="yes" xml:space="preserve">
           <source>Type</source>
@@ -2408,7 +2408,7 @@
         </trans-unit>
         <trans-unit id="PlanetUpgrade_Test" translate="yes" xml:space="preserve">
           <source>Test Energy Upgrade</source>
-          <target state="new">Test Energy Upgrade</target>
+          <target state="new">Test énergie Upgrade</target>
         </trans-unit>
         <trans-unit id="PlanetUpgradesPanel_Title" translate="yes" xml:space="preserve">
           <source>Constructions</source>
@@ -2416,11 +2416,11 @@
         </trans-unit>
         <trans-unit id="PlayerStatsFilter_0_Name" translate="yes" xml:space="preserve">
           <source>Energy</source>
-          <target state="new">Energy</target>
+          <target state="new">énergie</target>
         </trans-unit>
         <trans-unit id="PlayerStatsFilter_1_Name" translate="yes" xml:space="preserve">
           <source>Energy Income</source>
-          <target state="new">Energy Income</target>
+          <target state="new">énergie Income</target>
         </trans-unit>
         <trans-unit id="PlayerStatsFilter_10_Name" translate="yes" xml:space="preserve">
           <source>Active Units</source>
@@ -2436,7 +2436,7 @@
         </trans-unit>
         <trans-unit id="PlayerStatsFilter_2_Name" translate="yes" xml:space="preserve">
           <source>Explored</source>
-          <target state="new">Explored</target>
+          <target state="new">Exploré</target>
         </trans-unit>
         <trans-unit id="PlayerStatsFilter_3_Name" translate="yes" xml:space="preserve">
           <source>Influence</source>
@@ -2448,7 +2448,7 @@
         </trans-unit>
         <trans-unit id="PlayerStatsFilter_5_Name" translate="yes" xml:space="preserve">
           <source>Planets</source>
-          <target state="new">Planets</target>
+          <target state="new">Planètes</target>
         </trans-unit>
         <trans-unit id="PlayerStatsFilter_6_Name" translate="yes" xml:space="preserve">
           <source>Production</source>
@@ -2468,11 +2468,11 @@
         </trans-unit>
         <trans-unit id="PlayersText" translate="yes" xml:space="preserve">
           <source>Players</source>
-          <target state="new">Players</target>
+          <target state="new">Joueurs</target>
         </trans-unit>
         <trans-unit id="Prerequisite" translate="yes" xml:space="preserve">
           <source>Prerequisite</source>
-          <target state="new">Prerequisite</target>
+          <target state="new">Prérequis</target>
         </trans-unit>
         <trans-unit id="ProductionCost" translate="yes" xml:space="preserve">
           <source>Production Cost</source>
@@ -2480,19 +2480,19 @@
         </trans-unit>
         <trans-unit id="Race_255_Desc" translate="yes" xml:space="preserve">
           <source>Random</source>
-          <target state="new">Random</target>
+          <target state="new">Aléatoire</target>
         </trans-unit>
         <trans-unit id="Race_255_Name" translate="yes" xml:space="preserve">
           <source>Random</source>
-          <target state="new">Random</target>
+          <target state="new">Aléatoire</target>
         </trans-unit>
         <trans-unit id="RaceDesigner_AggressiveAI" translate="yes" xml:space="preserve">
           <source>Aggressive</source>
-          <target state="new">Aggressive</target>
+          <target state="new">Agressif</target>
         </trans-unit>
         <trans-unit id="RaceDesigner_AI" translate="yes" xml:space="preserve">
           <source>AI</source>
-          <target state="new">AI</target>
+          <target state="new">IA</target>
         </trans-unit>
         <trans-unit id="RaceDesigner_BonusPlanetConstruction" translate="yes" xml:space="preserve">
           <source>Bonus Construction</source>
@@ -2516,15 +2516,15 @@
         </trans-unit>
         <trans-unit id="RaceDesigner_HomePlanetName" translate="yes" xml:space="preserve">
           <source>Home Planet</source>
-          <target state="new">Home Planet</target>
+          <target state="new">Planète mère</target>
         </trans-unit>
         <trans-unit id="RaceDesigner_HomeStarName" translate="yes" xml:space="preserve">
           <source>Home Star</source>
-          <target state="new">Home Star</target>
+          <target state="new">Étoile mère</target>
         </trans-unit>
         <trans-unit id="RaceDesigner_Logo" translate="yes" xml:space="preserve">
           <source>Emblem</source>
-          <target state="new">Emblem</target>
+          <target state="new">Emblème</target>
         </trans-unit>
         <trans-unit id="RaceDesigner_LogoBackground" translate="yes" xml:space="preserve">
           <source>Background Color</source>
@@ -2552,11 +2552,11 @@
         </trans-unit>
         <trans-unit id="RaceDesigner_Names" translate="yes" xml:space="preserve">
           <source>Names</source>
-          <target state="new">Names</target>
+          <target state="new">Noms</target>
         </trans-unit>
         <trans-unit id="RaceDesigner_NewEmpire" translate="yes" xml:space="preserve">
           <source>NEW EMPIRE</source>
-          <target state="new">NEW EMPIRE</target>
+          <target state="new">NOUVEL EMNPIRE</target>
         </trans-unit>
         <trans-unit id="RaceDesigner_RaceName" translate="yes" xml:space="preserve">
           <source>Race</source>
@@ -2572,7 +2572,7 @@
         </trans-unit>
         <trans-unit id="RaceDesigner_ResearchAI" translate="yes" xml:space="preserve">
           <source>Research</source>
-          <target state="new">Research</target>
+          <target state="new">Recherche</target>
         </trans-unit>
         <trans-unit id="RaceDesigner_ShipsAppereance" translate="yes" xml:space="preserve">
           <source>Ships Appearance</source>
@@ -2588,7 +2588,7 @@
         </trans-unit>
         <trans-unit id="RaceDesigner_ShipsTypeHuman" translate="yes" xml:space="preserve">
           <source>Human</source>
-          <target state="new">Human</target>
+          <target state="new">Humain</target>
         </trans-unit>
         <trans-unit id="RaceDesigner_ShipsTypeKaga" translate="yes" xml:space="preserve">
           <source>Kaga</source>
@@ -2600,11 +2600,11 @@
         </trans-unit>
         <trans-unit id="RaceDesigner_StateName" translate="yes" xml:space="preserve">
           <source>State</source>
-          <target state="new">State</target>
+          <target state="new">Nation</target>
         </trans-unit>
         <trans-unit id="RaceDesigner_TradeAI" translate="yes" xml:space="preserve">
           <source>Trade</source>
-          <target state="new">Trade</target>
+          <target state="new">Commerce</target>
         </trans-unit>
         <trans-unit id="RareResource_Carbon" translate="yes" xml:space="preserve">
           <source>C</source>
@@ -2612,7 +2612,7 @@
         </trans-unit>
         <trans-unit id="RareResource_Carbon_FullName" translate="yes" xml:space="preserve">
           <source>Carbon</source>
-          <target state="new">Carbon</target>
+          <target state="new">Carbone</target>
         </trans-unit>
         <trans-unit id="RareResource_Helium" translate="yes" xml:space="preserve">
           <source>He</source>
@@ -2620,7 +2620,7 @@
         </trans-unit>
         <trans-unit id="RareResource_Helium_FullName" translate="yes" xml:space="preserve">
           <source>Helium</source>
-          <target state="new">Helium</target>
+          <target state="new">Hélium</target>
         </trans-unit>
         <trans-unit id="RareResource_Hydrogen" translate="yes" xml:space="preserve">
           <source>H</source>
@@ -2628,7 +2628,7 @@
         </trans-unit>
         <trans-unit id="RareResource_Hydrogen_FullName" translate="yes" xml:space="preserve">
           <source>Hydrogen</source>
-          <target state="new">Hydrogen</target>
+          <target state="new">Hydrogène</target>
         </trans-unit>
         <trans-unit id="RareResource_Iron" translate="yes" xml:space="preserve">
           <source>Fe</source>
@@ -2636,7 +2636,7 @@
         </trans-unit>
         <trans-unit id="RareResource_Iron_FullName" translate="yes" xml:space="preserve">
           <source>Ferrum</source>
-          <target state="new">Ferrum</target>
+          <target state="new">Fer</target>
         </trans-unit>
         <trans-unit id="RareResource_Promethium" translate="yes" xml:space="preserve">
           <source>Pm</source>
@@ -2644,7 +2644,7 @@
         </trans-unit>
         <trans-unit id="RareResource_Promethium_FullName" translate="yes" xml:space="preserve">
           <source>Promethium</source>
-          <target state="new">Promethium</target>
+          <target state="new">Prométhium</target>
         </trans-unit>
         <trans-unit id="RareResource_Silicon" translate="yes" xml:space="preserve">
           <source>Si</source>
@@ -2652,7 +2652,7 @@
         </trans-unit>
         <trans-unit id="RareResource_Silicon_FullName" translate="yes" xml:space="preserve">
           <source>Silicon</source>
-          <target state="new">Silicon</target>
+          <target state="new">Silice</target>
         </trans-unit>
         <trans-unit id="RareResource_Titanium" translate="yes" xml:space="preserve">
           <source>Ti</source>
@@ -2660,7 +2660,7 @@
         </trans-unit>
         <trans-unit id="RareResource_Titanium_FullName" translate="yes" xml:space="preserve">
           <source>Titanium</source>
-          <target state="new">Titanium</target>
+          <target state="new">Titane</target>
         </trans-unit>
         <trans-unit id="RareResource_Uranium" translate="yes" xml:space="preserve">
           <source>U</source>
@@ -2680,15 +2680,15 @@
         </trans-unit>
         <trans-unit id="ResetSettingsQuestion" translate="yes" xml:space="preserve">
           <source>Are you sure?</source>
-          <target state="new">Are you sure?</target>
+          <target state="new">Êtes-vous sûre?</target>
         </trans-unit>
         <trans-unit id="ResolutionText" translate="yes" xml:space="preserve">
           <source>Resolution</source>
-          <target state="new">Resolution</target>
+          <target state="new">Résolution</target>
         </trans-unit>
         <trans-unit id="RestartGameCaption" translate="yes" xml:space="preserve">
           <source>RESTART</source>
-          <target state="new">RESTART</target>
+          <target state="new">REDÉMARRER</target>
         </trans-unit>
         <trans-unit id="RestartGameMessage" translate="yes" xml:space="preserve">
           <source>Please, restart the game.</source>
@@ -2700,23 +2700,23 @@
         </trans-unit>
         <trans-unit id="RussianText" translate="yes" xml:space="preserve">
           <source>Pусский</source>
-          <target state="new">Pусский</target>
+          <target state="new">Russe</target>
         </trans-unit>
         <trans-unit id="SaveButtonText" translate="yes" xml:space="preserve">
           <source>SAVE</source>
-          <target state="new">SAVE</target>
+          <target state="new">SAUVEGARDER</target>
         </trans-unit>
         <trans-unit id="SaveGame" translate="yes" xml:space="preserve">
           <source>SAVE GAME</source>
-          <target state="new">SAVE GAME</target>
+          <target state="new">SAUVEGARDER LA PARTIE</target>
         </trans-unit>
         <trans-unit id="SearchWindow_SearchHint" translate="yes" xml:space="preserve">
           <source>Enter text...</source>
-          <target state="new">Enter text...</target>
+          <target state="new">Entrer du texte...</target>
         </trans-unit>
         <trans-unit id="SearchWindow_Title" translate="yes" xml:space="preserve">
           <source>SEARCH</source>
-          <target state="new">SEARCH</target>
+          <target state="new">CHERCHER</target>
         </trans-unit>
         <trans-unit id="SensitivityText" translate="yes" xml:space="preserve">
           <source>Mouse Sensitivity</source>
@@ -2724,51 +2724,51 @@
         </trans-unit>
         <trans-unit id="SessionNameText" translate="yes" xml:space="preserve">
           <source>Session Name</source>
-          <target state="new">Session Name</target>
+          <target state="new">Nom de la session</target>
         </trans-unit>
         <trans-unit id="SetupNewGame_AddAI" translate="yes" xml:space="preserve">
           <source>ADD AI PLAYER</source>
-          <target state="new">ADD AI PLAYER</target>
+          <target state="new">AJOUTER JOUEUR IA</target>
         </trans-unit>
         <trans-unit id="SetupNewGame_AddHuman" translate="yes" xml:space="preserve">
           <source>ADD HUMAN PLAYER</source>
-          <target state="new">ADD HUMAN PLAYER</target>
+          <target state="new">AJOUTER JOUEUR HUMAIN</target>
         </trans-unit>
         <trans-unit id="SetupNewGame_AI" translate="yes" xml:space="preserve">
           <source>AI Player</source>
-          <target state="new">AI Player</target>
+          <target state="new">Joueur AI</target>
         </trans-unit>
         <trans-unit id="SetupNewGame_Cancel" translate="yes" xml:space="preserve">
           <source>CANCEL</source>
-          <target state="new">CANCEL</target>
+          <target state="new">ANNULER</target>
         </trans-unit>
         <trans-unit id="SetupNewGame_Color" translate="yes" xml:space="preserve">
           <source>Color</source>
-          <target state="new">Color</target>
+          <target state="new">Couleur</target>
         </trans-unit>
         <trans-unit id="SetupNewGame_CreateNewEmpire" translate="yes" xml:space="preserve">
           <source>CREATE NEW</source>
-          <target state="new">CREATE NEW</target>
+          <target state="new">CRÉER</target>
         </trans-unit>
         <trans-unit id="SetupNewGame_GalaxySize" translate="yes" xml:space="preserve">
           <source>Galaxy Size</source>
-          <target state="new">Galaxy Size</target>
+          <target state="new">Taille de la galaxie</target>
         </trans-unit>
         <trans-unit id="SetupNewGame_GalaxyType" translate="yes" xml:space="preserve">
           <source>Galaxy Type</source>
-          <target state="new">Galaxy Type</target>
+          <target state="new">Type de galaxie</target>
         </trans-unit>
         <trans-unit id="SetupNewGame_GameSettings" translate="yes" xml:space="preserve">
           <source>GAME SETTINGS</source>
-          <target state="new">GAME SETTINGS</target>
+          <target state="new">RÉGLAGES DU JEU</target>
         </trans-unit>
         <trans-unit id="SetupNewGame_GameSpeed" translate="yes" xml:space="preserve">
           <source>Game Speed</source>
-          <target state="new">Game Speed</target>
+          <target state="new">Vitesse du jeu</target>
         </trans-unit>
         <trans-unit id="SetupNewGame_GameSpeedFast" translate="yes" xml:space="preserve">
           <source>Fast</source>
-          <target state="new">Fast</target>
+          <target state="new">Rapide</target>
         </trans-unit>
         <trans-unit id="SetupNewGame_GameSpeedNormal" translate="yes" xml:space="preserve">
           <source>Normal</source>
@@ -2776,19 +2776,19 @@
         </trans-unit>
         <trans-unit id="SetupNewGame_GameSpeedSlow" translate="yes" xml:space="preserve">
           <source>Slow</source>
-          <target state="new">Slow</target>
+          <target state="new">Lent</target>
         </trans-unit>
         <trans-unit id="SetupNewGame_GameSpeedVeryFast" translate="yes" xml:space="preserve">
           <source>Very Fast</source>
-          <target state="new">Very Fast</target>
+          <target state="new">Très rapide</target>
         </trans-unit>
         <trans-unit id="SetupNewGame_GameSpeedVerySlow" translate="yes" xml:space="preserve">
           <source>Very Slow</source>
-          <target state="new">Very Slow</target>
+          <target state="new">Très lent</target>
         </trans-unit>
         <trans-unit id="SetupNewGame_Human" translate="yes" xml:space="preserve">
           <source>Human Player</source>
-          <target state="new">Human Player</target>
+          <target state="new">Joueur humain</target>
         </trans-unit>
         <trans-unit id="SetupNewGame_PlanetPreferences" translate="yes" xml:space="preserve">
           <source>Planet Type Preferences</source>
@@ -2796,7 +2796,7 @@
         </trans-unit>
         <trans-unit id="SetupNewGame_Players" translate="yes" xml:space="preserve">
           <source>OPPONENTS</source>
-          <target state="new">OPPONENTS</target>
+          <target state="new">ADVERSAIRES</target>
         </trans-unit>
         <trans-unit id="SetupNewGame_PreferredPlanetType" translate="yes" xml:space="preserve">
           <source>Preferred Planet Type</source>
@@ -2836,11 +2836,11 @@
         </trans-unit>
         <trans-unit id="SetupNewGame_Start" translate="yes" xml:space="preserve">
           <source>START</source>
-          <target state="new">START</target>
+          <target state="new">DÉMARRER</target>
         </trans-unit>
         <trans-unit id="SetupNewGame_Title" translate="yes" xml:space="preserve">
           <source>SETUP NEW GAME</source>
-          <target state="new">SETUP NEW GAME</target>
+          <target state="new">CONFIGURER UNE NOUVELLE PARTIE</target>
         </trans-unit>
         <trans-unit id="SetupNewGame_UseInRandomSelection" translate="yes" xml:space="preserve">
           <source>Use race in random selection</source>
@@ -2848,35 +2848,35 @@
         </trans-unit>
         <trans-unit id="SetupNewGame_YourRace" translate="yes" xml:space="preserve">
           <source>YOUR RACE</source>
-          <target state="new">YOUR RACE</target>
+          <target state="new">VOTRE RACE</target>
         </trans-unit>
         <trans-unit id="SoundsVolumeText" translate="yes" xml:space="preserve">
           <source>Sounds Volume</source>
-          <target state="new">Sounds Volume</target>
+          <target state="new">Volume sonore</target>
         </trans-unit>
         <trans-unit id="StarPanel_Age" translate="yes" xml:space="preserve">
           <source>Age</source>
-          <target state="new">Age</target>
+          <target state="new">Âge</target>
         </trans-unit>
         <trans-unit id="StarPanel_Luminosity" translate="yes" xml:space="preserve">
           <source>Luminosity</source>
-          <target state="new">Luminosity</target>
+          <target state="new">Luminosité</target>
         </trans-unit>
         <trans-unit id="StarPanel_Mass" translate="yes" xml:space="preserve">
           <source>Mass</source>
-          <target state="new">Mass</target>
+          <target state="new">Masse</target>
         </trans-unit>
         <trans-unit id="StarPanel_Radius" translate="yes" xml:space="preserve">
           <source>Radius</source>
-          <target state="new">Radius</target>
+          <target state="new">Rayon</target>
         </trans-unit>
         <trans-unit id="StarPanel_SpectralType" translate="yes" xml:space="preserve">
           <source>Spectral Type</source>
-          <target state="new">Spectral Type</target>
+          <target state="new">Type spectral</target>
         </trans-unit>
         <trans-unit id="StarPanel_Temperature" translate="yes" xml:space="preserve">
           <source>Temperature</source>
-          <target state="new">Temperature</target>
+          <target state="new">Température</target>
         </trans-unit>
         <trans-unit id="StarSystem_Generator_Names" translate="yes" xml:space="preserve">
           <source>Acamar,Achernar,Atlas,Baham,Bellatrix,Betelgeuse,Canopus,Capella,Cursa,Deneb,Duhr,Diadem,Elnath,Enif,Errai,Furud,Fafnir,Gacrux,Gemma,Girtab,Hamal,Heze,Helvetios,Izar,Jabbah,Kajam,Kuma,Kraz,Lesath,Massym,Marfik,Maia,Merga,Mizar,Naos,Navi,Nembus,Nihal,Okul,Phact,Pherkad,Rana,Rasalas,Sargas,Sarir,Sirius,Tabit,Tarazed,Vega,Wazat,Wezen,Yed,Zibal,Zosma</source>
@@ -2888,7 +2888,7 @@
         </trans-unit>
         <trans-unit id="StarSystemPanel_Size" translate="yes" xml:space="preserve">
           <source>Size</source>
-          <target state="new">Size</target>
+          <target state="new">Dimension</target>
         </trans-unit>
         <trans-unit id="StarSystemToolTip_AvailForColonizationHeader" translate="yes" xml:space="preserve">
           <source>Available for Colonization</source>
@@ -2932,7 +2932,7 @@
         </trans-unit>
         <trans-unit id="Technology_0_Name" translate="yes" xml:space="preserve">
           <source>Astronomy</source>
-          <target state="new">Astronomy</target>
+          <target state="new">Astronomie</target>
         </trans-unit>
         <trans-unit id="Technology_1_Desc" translate="yes" xml:space="preserve">
           <source>Money, says the proverb, makes money. When you have a little, it is often easier to get more. The great difficulty is to get that little.</source>
@@ -2940,7 +2940,7 @@
         </trans-unit>
         <trans-unit id="Technology_1_Name" translate="yes" xml:space="preserve">
           <source>Economics</source>
-          <target state="new">Economics</target>
+          <target state="new">Économie</target>
         </trans-unit>
         <trans-unit id="Technology_10_Desc" translate="yes" xml:space="preserve">
           <source>The sea is only the embodiment of a supernatural and wonderful existence. It is nothing but love and emotion; it is the 'Living Infinite'...The globe began with sea, so to speak; and who knows if it will not end with it? In it is supreme tranquility.</source>
@@ -2948,7 +2948,7 @@
         </trans-unit>
         <trans-unit id="Technology_10_Name" translate="yes" xml:space="preserve">
           <source>Underwater Habitat</source>
-          <target state="new">Underwater Habitat</target>
+          <target state="new">Habitat sous-marin</target>
         </trans-unit>
         <trans-unit id="Technology_100_Desc" translate="yes" xml:space="preserve">
           <source>!!!</source>
@@ -2964,7 +2964,7 @@
         </trans-unit>
         <trans-unit id="Technology_101_Name" translate="yes" xml:space="preserve">
           <source>Igloo</source>
-          <target state="new">Igloo</target>
+          <target state="new">Iglou</target>
         </trans-unit>
         <trans-unit id="Technology_102_Desc" translate="yes" xml:space="preserve">
           <source>!!!</source>
@@ -2988,7 +2988,7 @@
         </trans-unit>
         <trans-unit id="Technology_104_Name" translate="yes" xml:space="preserve">
           <source>Orbit Capacity III.</source>
-          <target state="new">Orbit Capacity III.</target>
+          <target state="new">Capacité orbitale III.</target>
         </trans-unit>
         <trans-unit id="Technology_105_Desc" translate="yes" xml:space="preserve">
           <source>!!!</source>
@@ -3020,7 +3020,7 @@
         </trans-unit>
         <trans-unit id="Technology_108_Name" translate="yes" xml:space="preserve">
           <source>Energy Storage III.</source>
-          <target state="new">Energy Storage III.</target>
+          <target state="new">Stockage d'énergie III.</target>
         </trans-unit>
         <trans-unit id="Technology_109_Desc" translate="yes" xml:space="preserve">
           <source>!!!</source>
@@ -3028,7 +3028,7 @@
         </trans-unit>
         <trans-unit id="Technology_109_Name" translate="yes" xml:space="preserve">
           <source>Orbital Laboratory</source>
-          <target state="new">Orbital Laboratory</target>
+          <target state="new">Laboratoire orbital</target>
         </trans-unit>
         <trans-unit id="Technology_11_Desc" translate="yes" xml:space="preserve">
           <source>What makes the desert beautiful, is that somewhere it hides a well.</source>
@@ -3084,7 +3084,7 @@
         </trans-unit>
         <trans-unit id="Technology_115_Name" translate="yes" xml:space="preserve">
           <source>Carriers</source>
-          <target state="new">Carriers</target>
+          <target state="new">Transporteurs</target>
         </trans-unit>
         <trans-unit id="Technology_12_Desc" translate="yes" xml:space="preserve">
           <source>!!!</source>
@@ -3100,7 +3100,7 @@
         </trans-unit>
         <trans-unit id="Technology_120_Name" translate="yes" xml:space="preserve">
           <source>Dyson Sphere I.</source>
-          <target state="new">Dyson Sphere I.</target>
+          <target state="new">Sphère Dyson I.</target>
         </trans-unit>
         <trans-unit id="Technology_121_Desc" translate="yes" xml:space="preserve">
           <source>Dyson Sphere is mega structure around the star. All 4 parts are needed for construction.</source>
@@ -3108,7 +3108,7 @@
         </trans-unit>
         <trans-unit id="Technology_121_Name" translate="yes" xml:space="preserve">
           <source>Dyson Sphere II.</source>
-          <target state="new">Dyson Sphere II.</target>
+          <target state="new">Sphère Dyson II.</target>
         </trans-unit>
         <trans-unit id="Technology_122_Desc" translate="yes" xml:space="preserve">
           <source>Dyson Sphere is mega structure around the star. All 4 parts are needed for construction.</source>
@@ -3116,7 +3116,7 @@
         </trans-unit>
         <trans-unit id="Technology_122_Name" translate="yes" xml:space="preserve">
           <source>Dyson Sphere III.</source>
-          <target state="new">Dyson Sphere III.</target>
+          <target state="new">Sphère Dyson III.</target>
         </trans-unit>
         <trans-unit id="Technology_123_Desc" translate="yes" xml:space="preserve">
           <source>Dyson Sphere is mega structure around the star. All 4 parts are needed for construction.</source>
@@ -3124,7 +3124,7 @@
         </trans-unit>
         <trans-unit id="Technology_123_Name" translate="yes" xml:space="preserve">
           <source>Dyson Sphere IV.</source>
-          <target state="new">Dyson Sphere IV.</target>
+          <target state="new">Sphère Dyson IV.</target>
         </trans-unit>
         <trans-unit id="Technology_13_Desc" translate="yes" xml:space="preserve">
           <source>Efficiency is doing things right; effectiveness is doing the right things.</source>
@@ -3148,7 +3148,7 @@
         </trans-unit>
         <trans-unit id="Technology_15_Name" translate="yes" xml:space="preserve">
           <source>Global Trade</source>
-          <target state="new">Global Trade</target>
+          <target state="new">Commerce global</target>
         </trans-unit>
         <trans-unit id="Technology_16_Desc" translate="yes" xml:space="preserve">
           <source>!!!</source>
@@ -3164,7 +3164,7 @@
         </trans-unit>
         <trans-unit id="Technology_17_Name" translate="yes" xml:space="preserve">
           <source>Trade Deal</source>
-          <target state="new">Trade Deal</target>
+          <target state="new">Accord commercial</target>
         </trans-unit>
         <trans-unit id="Technology_18_Desc" translate="yes" xml:space="preserve">
           <source>!!!</source>
@@ -3172,7 +3172,7 @@
         </trans-unit>
         <trans-unit id="Technology_18_Name" translate="yes" xml:space="preserve">
           <source>Orbit Capacity I.</source>
-          <target state="new">Orbit Capacity I.</target>
+          <target state="new">Capacité orbitale I.</target>
         </trans-unit>
         <trans-unit id="Technology_19_Desc" translate="yes" xml:space="preserve">
           <source>!!!</source>
@@ -3188,7 +3188,7 @@
         </trans-unit>
         <trans-unit id="Technology_2_Name" translate="yes" xml:space="preserve">
           <source>Sociology</source>
-          <target state="new">Sociology</target>
+          <target state="new">Sociologie</target>
         </trans-unit>
         <trans-unit id="Technology_20_Desc" translate="yes" xml:space="preserve">
           <source>!!!</source>
@@ -3204,7 +3204,7 @@
         </trans-unit>
         <trans-unit id="Technology_21_Name" translate="yes" xml:space="preserve">
           <source>Virtual Network</source>
-          <target state="new">Virtual Network</target>
+          <target state="new">Réseaux virtuels</target>
         </trans-unit>
         <trans-unit id="Technology_22_Desc" translate="yes" xml:space="preserve">
           <source>!!!</source>
@@ -3236,7 +3236,7 @@
         </trans-unit>
         <trans-unit id="Technology_25_Name" translate="yes" xml:space="preserve">
           <source>Defense Towers</source>
-          <target state="new">Defense Towers</target>
+          <target state="new">Tours de défense</target>
         </trans-unit>
         <trans-unit id="Technology_26_Desc" translate="yes" xml:space="preserve">
           <source>!!!</source>
@@ -3244,7 +3244,7 @@
         </trans-unit>
         <trans-unit id="Technology_26_Name" translate="yes" xml:space="preserve">
           <source>Energy Storage I.</source>
-          <target state="new">Energy Storage I.</target>
+          <target state="new">Stockage d'énergie I.</target>
         </trans-unit>
         <trans-unit id="Technology_27_Desc" translate="yes" xml:space="preserve">
           <source>!!!</source>
@@ -3252,7 +3252,7 @@
         </trans-unit>
         <trans-unit id="Technology_27_Name" translate="yes" xml:space="preserve">
           <source>Engine Energy</source>
-          <target state="new">Engine Energy</target>
+          <target state="new">Engine énergie</target>
         </trans-unit>
         <trans-unit id="Technology_28_Desc" translate="yes" xml:space="preserve">
           <source>!!!</source>
@@ -3268,7 +3268,7 @@
         </trans-unit>
         <trans-unit id="Technology_29_Name" translate="yes" xml:space="preserve">
           <source>Geothermal Energy</source>
-          <target state="new">Geothermal Energy</target>
+          <target state="new">Énergie géothermique</target>
         </trans-unit>
         <trans-unit id="Technology_3_Desc" translate="yes" xml:space="preserve">
           <source>The language of experiment is more authoritative than any reasoning: facts can destroy our ratiocination, not vice versa.</source>
@@ -3276,7 +3276,7 @@
         </trans-unit>
         <trans-unit id="Technology_3_Name" translate="yes" xml:space="preserve">
           <source>Engineering</source>
-          <target state="new">Engineering</target>
+          <target state="new">Ingénierie</target>
         </trans-unit>
         <trans-unit id="Technology_30_Desc" translate="yes" xml:space="preserve">
           <source>!!!</source>
@@ -3300,7 +3300,7 @@
         </trans-unit>
         <trans-unit id="Technology_32_Name" translate="yes" xml:space="preserve">
           <source>Wave Energy</source>
-          <target state="new">Wave Energy</target>
+          <target state="new">Wave énergie</target>
         </trans-unit>
         <trans-unit id="Technology_33_Desc" translate="yes" xml:space="preserve">
           <source>!!!</source>
@@ -3364,7 +3364,7 @@
         </trans-unit>
         <trans-unit id="Technology_4_Name" translate="yes" xml:space="preserve">
           <source>Math</source>
-          <target state="new">Math</target>
+          <target state="new">Mathématique</target>
         </trans-unit>
         <trans-unit id="Technology_40_Desc" translate="yes" xml:space="preserve">
           <source>!!!</source>
@@ -3380,7 +3380,7 @@
         </trans-unit>
         <trans-unit id="Technology_41_Name" translate="yes" xml:space="preserve">
           <source>Energy Storage II.</source>
-          <target state="new">Energy Storage II.</target>
+          <target state="new">Stockage d'énergie II.</target>
         </trans-unit>
         <trans-unit id="Technology_42_Desc" translate="yes" xml:space="preserve">
           <source>!!!</source>
@@ -3388,7 +3388,7 @@
         </trans-unit>
         <trans-unit id="Technology_42_Name" translate="yes" xml:space="preserve">
           <source>Robotics</source>
-          <target state="new">Robotics</target>
+          <target state="new">Robotique</target>
         </trans-unit>
         <trans-unit id="Technology_43_Desc" translate="yes" xml:space="preserve">
           <source>!!!</source>
@@ -3436,7 +3436,7 @@
         </trans-unit>
         <trans-unit id="Technology_48_Name" translate="yes" xml:space="preserve">
           <source>Special Forces</source>
-          <target state="new">Special Forces</target>
+          <target state="new">Forces spéciales</target>
         </trans-unit>
         <trans-unit id="Technology_49_Desc" translate="yes" xml:space="preserve">
           <source>!!!</source>
@@ -3444,7 +3444,7 @@
         </trans-unit>
         <trans-unit id="Technology_49_Name" translate="yes" xml:space="preserve">
           <source>Starfleet Academy</source>
-          <target state="new">Starfleet Academy</target>
+          <target state="new">Académie de Starfleet</target>
         </trans-unit>
         <trans-unit id="Technology_5_Desc" translate="yes" xml:space="preserve">
           <source>Give me the place to stand, and I shall move the earth.</source>
@@ -3452,7 +3452,7 @@
         </trans-unit>
         <trans-unit id="Technology_5_Name" translate="yes" xml:space="preserve">
           <source>Physics</source>
-          <target state="new">Physics</target>
+          <target state="new">Physique</target>
         </trans-unit>
         <trans-unit id="Technology_50_Desc" translate="yes" xml:space="preserve">
           <source>!!!</source>
@@ -3468,7 +3468,7 @@
         </trans-unit>
         <trans-unit id="Technology_51_Name" translate="yes" xml:space="preserve">
           <source>Sensors Energy</source>
-          <target state="new">Sensors Energy</target>
+          <target state="new">Sensors énergie</target>
         </trans-unit>
         <trans-unit id="Technology_52_Desc" translate="yes" xml:space="preserve">
           <source>!!!</source>
@@ -3476,7 +3476,7 @@
         </trans-unit>
         <trans-unit id="Technology_52_Name" translate="yes" xml:space="preserve">
           <source>Energy Storage II.</source>
-          <target state="new">Energy Storage II.</target>
+          <target state="new">énergie Storage II.</target>
         </trans-unit>
         <trans-unit id="Technology_53_Desc" translate="yes" xml:space="preserve">
           <source>!!!</source>
@@ -3500,7 +3500,7 @@
         </trans-unit>
         <trans-unit id="Technology_55_Name" translate="yes" xml:space="preserve">
           <source>Tech</source>
-          <target state="new">Tech</target>
+          <target state="new">Techno</target>
         </trans-unit>
         <trans-unit id="Technology_56_Desc" translate="yes" xml:space="preserve">
           <source>!!!</source>
@@ -3508,7 +3508,7 @@
         </trans-unit>
         <trans-unit id="Technology_56_Name" translate="yes" xml:space="preserve">
           <source>Tech</source>
-          <target state="new">Tech</target>
+          <target state="new">Techno</target>
         </trans-unit>
         <trans-unit id="Technology_57_Desc" translate="yes" xml:space="preserve">
           <source>!!!</source>
@@ -3540,7 +3540,7 @@
         </trans-unit>
         <trans-unit id="Technology_60_Name" translate="yes" xml:space="preserve">
           <source>Frigates</source>
-          <target state="new">Frigates</target>
+          <target state="new">Frégates</target>
         </trans-unit>
         <trans-unit id="Technology_61_Desc" translate="yes" xml:space="preserve">
           <source>!!!</source>
@@ -3564,7 +3564,7 @@
         </trans-unit>
         <trans-unit id="Technology_63_Name" translate="yes" xml:space="preserve">
           <source>Shields Energy</source>
-          <target state="new">Shields Energy</target>
+          <target state="new">Shields énergie</target>
         </trans-unit>
         <trans-unit id="Technology_64_Desc" translate="yes" xml:space="preserve">
           <source>!!!</source>
@@ -3580,7 +3580,7 @@
         </trans-unit>
         <trans-unit id="Technology_65_Name" translate="yes" xml:space="preserve">
           <source>Tech</source>
-          <target state="new">Tech</target>
+          <target state="new">Techno</target>
         </trans-unit>
         <trans-unit id="Technology_66_Desc" translate="yes" xml:space="preserve">
           <source>!!!</source>
@@ -3612,7 +3612,7 @@
         </trans-unit>
         <trans-unit id="Technology_69_Name" translate="yes" xml:space="preserve">
           <source>Tech</source>
-          <target state="new">Tech</target>
+          <target state="new">Techno</target>
         </trans-unit>
         <trans-unit id="Technology_70_Desc" translate="yes" xml:space="preserve">
           <source>!!!</source>
@@ -3620,7 +3620,7 @@
         </trans-unit>
         <trans-unit id="Technology_70_Name" translate="yes" xml:space="preserve">
           <source>Tech</source>
-          <target state="new">Tech</target>
+          <target state="new">Techno</target>
         </trans-unit>
         <trans-unit id="Technology_71_Desc" translate="yes" xml:space="preserve">
           <source>!!!</source>
@@ -3628,7 +3628,7 @@
         </trans-unit>
         <trans-unit id="Technology_71_Name" translate="yes" xml:space="preserve">
           <source>Energy Storage II.</source>
-          <target state="new">Energy Storage II.</target>
+          <target state="new">énergie Storage II.</target>
         </trans-unit>
         <trans-unit id="Technology_72_Desc" translate="yes" xml:space="preserve">
           <source>!!!</source>
@@ -3644,7 +3644,7 @@
         </trans-unit>
         <trans-unit id="Technology_73_Name" translate="yes" xml:space="preserve">
           <source>Tech</source>
-          <target state="new">Tech</target>
+          <target state="new">Techno</target>
         </trans-unit>
         <trans-unit id="Technology_74_Desc" translate="yes" xml:space="preserve">
           <source>!!!</source>
@@ -3660,7 +3660,7 @@
         </trans-unit>
         <trans-unit id="Technology_75_Name" translate="yes" xml:space="preserve">
           <source>Personal Reactor</source>
-          <target state="new">Personal Reactor</target>
+          <target state="new">Réacteur personnel</target>
         </trans-unit>
         <trans-unit id="Technology_76_Desc" translate="yes" xml:space="preserve">
           <source>!!!</source>
@@ -3704,11 +3704,11 @@
         </trans-unit>
         <trans-unit id="Technology_9_Desc" translate="yes" xml:space="preserve">
           <source>The ocean wave power is never ending source of energy, same like power of the stars.</source>
-          <target state="new">The ocean wave power is never ending source of energy, same like power of the stars.</target>
+          <target state="new">The ocean wave power is never ending source of énergie, same like power of the stars.</target>
         </trans-unit>
         <trans-unit id="Technology_9_Name" translate="yes" xml:space="preserve">
           <source>Alternative Energy</source>
-          <target state="new">Alternative Energy</target>
+          <target state="new">Alternative énergie</target>
         </trans-unit>
         <trans-unit id="Technology_98_Desc" translate="yes" xml:space="preserve">
           <source>!!!</source>
@@ -3716,7 +3716,7 @@
         </trans-unit>
         <trans-unit id="Technology_98_Name" translate="yes" xml:space="preserve">
           <source>Total Energy</source>
-          <target state="new">Total Energy</target>
+          <target state="new">Énergie totale</target>
         </trans-unit>
         <trans-unit id="Technology_99_Desc" translate="yes" xml:space="preserve">
           <source>!!!</source>
@@ -3756,7 +3756,7 @@
         </trans-unit>
         <trans-unit id="Technology_Component_AddPlayerMaxEnergy" translate="yes" xml:space="preserve">
           <source>+{0} Max Energy</source>
-          <target state="new">+{0} Max Energy</target>
+          <target state="new">+{0} Max énergie</target>
         </trans-unit>
         <trans-unit id="Technology_Component_AddPlayerProgressPool" translate="yes" xml:space="preserve">
           <source>+{0}% Research Progress Pool</source>
@@ -3812,7 +3812,7 @@
         </trans-unit>
         <trans-unit id="TradePanel_FromColumn" translate="yes" xml:space="preserve">
           <source>FROM</source>
-          <target state="new">FROM</target>
+          <target state="new">DE</target>
         </trans-unit>
         <trans-unit id="TradePanel_OpponentsTradeRoutes" translate="yes" xml:space="preserve">
           <source>Opponents Trade Routes</source>
@@ -3820,7 +3820,7 @@
         </trans-unit>
         <trans-unit id="TradePanel_ToColumn" translate="yes" xml:space="preserve">
           <source>TO</source>
-          <target state="new">TO</target>
+          <target state="new">À</target>
         </trans-unit>
         <trans-unit id="TradePanel_TradePercentageBonus" translate="yes" xml:space="preserve">
           <source>Trade Percentage Bonus</source>
@@ -3840,7 +3840,7 @@
         </trans-unit>
         <trans-unit id="Tutorial_Title" translate="yes" xml:space="preserve">
           <source>TUTORIAL</source>
-          <target state="new">TUTORIAL</target>
+          <target state="new">DIDACTICIEL</target>
         </trans-unit>
         <trans-unit id="TutorialBasicUI_BackToGalaxyView_Text" translate="yes" xml:space="preserve">
           <source>Press the Galaxy Map button or press the TAB key.</source>
@@ -3874,7 +3874,7 @@
         </trans-unit>
         <trans-unit id="TutorialBasicUI_Phase2_Text" translate="yes" xml:space="preserve">
           <source>The status bar is the center for the player information. You can see the current turn number and how much Energy, Research and Intelligence you have. It also shows rare resources.</source>
-          <target state="new">The status bar is the center for the player information. You can see the current turn number and how much Energy, Research and Intelligence you have. It also shows rare resources.</target>
+          <target state="new">The status bar is the center for the player information. You can see the current turn number and how much énergie, Research and Intelligence you have. It also shows rare resources.</target>
         </trans-unit>
         <trans-unit id="TutorialBasicUI_Phase3_Text" translate="yes" xml:space="preserve">
           <source>The Galaxy Overview has information about all your colonized planets and units.</source>
@@ -4010,11 +4010,11 @@
         </trans-unit>
         <trans-unit id="TutorialConstructions_Constructions_Text" translate="yes" xml:space="preserve">
           <source>Each Construction improves some attribute(s) of the planet. They also have a maintenance cost (Energy), so you must be careful with planning. If your planet does not have enough Energy, you will see a decrease in production.</source>
-          <target state="new">Each Construction improves some attribute(s) of the planet. They also have a maintenance cost (Energy), so you must be careful with planning. If your planet does not have enough Energy, you will see a decrease in production.</target>
+          <target state="new">Each Construction improves some attribute(s) of the planet. They also have a maintenance cost (énergie), so you must be careful with planning. If your planet does not have enough énergie, you will see a decrease in production.</target>
         </trans-unit>
         <trans-unit id="TutorialConstructions_ImproveEarth_Text" translate="yes" xml:space="preserve">
           <source>Improve Earth by building constructions so it has at least 8 Food, 7 Energy and 14 Production.</source>
-          <target state="new">Improve Earth by building constructions so it has at least 8 Food, 7 Energy and 14 Production.</target>
+          <target state="new">Improve Earth by building constructions so it has at least 8 Food, 7 énergie and 14 Production.</target>
         </trans-unit>
         <trans-unit id="TutorialConstructions_Intro_Text" translate="yes" xml:space="preserve">
           <source>This tutorial will teach you how to improve your planets.</source>
@@ -4124,11 +4124,11 @@
         </trans-unit>
         <trans-unit id="TutorialExploration_SessionEnd_Text" translate="yes" xml:space="preserve">
           <source>End of tutorial</source>
-          <target state="new">End of tutorial</target>
+          <target state="new">Fin du didacticiel</target>
         </trans-unit>
         <trans-unit id="TutorialExploration_UnitInWarp_Text" translate="yes" xml:space="preserve">
           <source>Scout One is in the warp mode now, but remember each warp jump uses all your Warp Energy. It can take several turns to get that energy back. The amount of Warp Energy and Warp Energy Recharge time depends on the type of the unit.</source>
-          <target state="new">Scout One is in the warp mode now, but remember each warp jump uses all your Warp Energy. It can take several turns to get that energy back. The amount of Warp Energy and Warp Energy Recharge time depends on the type of the unit.</target>
+          <target state="new">Scout One is in the warp mode now, but remember each warp jump uses all your Warp énergie. It can take several turns to get that énergie back. The amount of Warp énergie and Warp énergie Recharge time depends on the type of the unit.</target>
         </trans-unit>
         <trans-unit id="TutorialExploration_UnitMove_Text" translate="yes" xml:space="preserve">
           <source>You can move the unit in the warp mode by selecting the Move action or by holding the right mouse button and releasing it on the destination. Move the Scout One unit to the location of the HD 10180 star. It can take several turns to reach that location, so keep pressing the Next Turn button until the unit reaches the desired destination.</source>
@@ -4156,7 +4156,7 @@
         </trans-unit>
         <trans-unit id="TutorialMiner_MinerRange" translate="yes" xml:space="preserve">
           <source>The Miner is extracting resources now. That light blue area around the Miner is its range. You can get a bigger range by upgrading the Sensor Energy.</source>
-          <target state="new">The Miner is extracting resources now. That light blue area around the Miner is its range. You can get a bigger range by upgrading the Sensor Energy.</target>
+          <target state="new">The Miner is extracting resources now. That light blue area around the Miner is its range. You can get a bigger range by upgrading the Sensor énergie.</target>
         </trans-unit>
         <trans-unit id="TutorialMiner_RareResources" translate="yes" xml:space="preserve">
           <source>There are 7 rare resources in the galaxy - Carbon, Helium, Hydrogen, Ferrum, Silicon, Titanium and Uranium. You need those resources to be able to build advanced starships or planet constructions. You can see your current amount in status bar.</source>
@@ -4172,7 +4172,7 @@
         </trans-unit>
         <trans-unit id="TutorialName_Colonization" translate="yes" xml:space="preserve">
           <source>Colonization</source>
-          <target state="new">Colonization</target>
+          <target state="new">Colonisation</target>
         </trans-unit>
         <trans-unit id="TutorialName_Combat" translate="yes" xml:space="preserve">
           <source>Combat and Advanced unit actions</source>
@@ -4208,11 +4208,11 @@
         </trans-unit>
         <trans-unit id="Tutorials_Start" translate="yes" xml:space="preserve">
           <source>START TUTORIAL</source>
-          <target state="new">START TUTORIAL</target>
+          <target state="new">DÉMARRER LE DIDACTICIEL</target>
         </trans-unit>
         <trans-unit id="TutorialsText" translate="yes" xml:space="preserve">
           <source>TUTORIALS</source>
-          <target state="new">TUTORIALS</target>
+          <target state="new">DICACTICIELS</target>
         </trans-unit>
         <trans-unit id="TutorialStrikeGroups_FormOnMap" translate="yes" xml:space="preserve">
           <source>If you have units on the map, you can simply select any unit and right click on the other one. The selected unit will become a member of the Strike Group. Create your first Strike Group now.</source>
@@ -4264,15 +4264,15 @@
         </trans-unit>
         <trans-unit id="TutorialUnitsUpgrade_SessionEnd_Text" translate="yes" xml:space="preserve">
           <source>End of tutorial</source>
-          <target state="new">End of tutorial</target>
+          <target state="new">Fin du didacticiel</target>
         </trans-unit>
         <trans-unit id="TutorialWindow_ExitTutorial" translate="yes" xml:space="preserve">
           <source>EXIT TUTORIAL</source>
-          <target state="new">EXIT TUTORIAL</target>
+          <target state="new">QUITTER LE DIDACTICIEL</target>
         </trans-unit>
         <trans-unit id="TutorialWindow_NextButton" translate="yes" xml:space="preserve">
           <source>NEXT</source>
-          <target state="new">NEXT</target>
+          <target state="new">SUIVANT</target>
         </trans-unit>
         <trans-unit id="TutorialWindow_WaitingForYourAction" translate="yes" xml:space="preserve">
           <source>Waiting for your action...</source>
@@ -4280,19 +4280,19 @@
         </trans-unit>
         <trans-unit id="UnitPanel_AvailEnergy" translate="yes" xml:space="preserve">
           <source>Total Energy</source>
-          <target state="new">Total Energy</target>
+          <target state="new">Total énergie</target>
         </trans-unit>
         <trans-unit id="UnitPanel_AvailEnginesEnergy" translate="yes" xml:space="preserve">
           <source>Engines</source>
-          <target state="new">Engines</target>
+          <target state="new">Moteurs</target>
         </trans-unit>
         <trans-unit id="UnitPanel_AvailShieldsEnergy" translate="yes" xml:space="preserve">
           <source>Shields</source>
-          <target state="new">Shields</target>
+          <target state="new">Boucliers</target>
         </trans-unit>
         <trans-unit id="UnitPanel_AvailWeaponsEnergy" translate="yes" xml:space="preserve">
           <source>Weapons</source>
-          <target state="new">Weapons</target>
+          <target state="new">Armements</target>
         </trans-unit>
         <trans-unit id="UnitPanel_Dockable" translate="yes" xml:space="preserve">
           <source>Has Docking Area</source>
@@ -4308,7 +4308,7 @@
         </trans-unit>
         <trans-unit id="UnitPanel_Hull" translate="yes" xml:space="preserve">
           <source>Hull</source>
-          <target state="new">Hull</target>
+          <target state="new">Coque</target>
         </trans-unit>
         <trans-unit id="UnitPanel_HullDesc" translate="yes" xml:space="preserve">
           <source>Hull is the body of a starship. If it is equal or bellow zero a starship will explode.</source>
@@ -4332,7 +4332,7 @@
         </trans-unit>
         <trans-unit id="UnitPanel_Rank" translate="yes" xml:space="preserve">
           <source>Rank</source>
-          <target state="new">Rank</target>
+          <target state="new">Rang</target>
         </trans-unit>
         <trans-unit id="UnitPanel_RankExperience" translate="yes" xml:space="preserve">
           <source>RANK XP</source>
@@ -4344,7 +4344,7 @@
         </trans-unit>
         <trans-unit id="UnitPanel_SensorsEnergy" translate="yes" xml:space="preserve">
           <source>Sensors</source>
-          <target state="new">Sensors</target>
+          <target state="new">Capteurs</target>
         </trans-unit>
         <trans-unit id="UnitPanel_ShieldDistribution" translate="yes" xml:space="preserve">
           <source>Shields Distribution</source>
@@ -4352,7 +4352,7 @@
         </trans-unit>
         <trans-unit id="UnitPanel_ShieldsDesc" translate="yes" xml:space="preserve">
           <source>Shields is a type of energy field around a starships. There are 6 directions. Shields protect against enemy attacks and do recharge every turn.</source>
-          <target state="new">Shields is a type of energy field around a starships. There are 6 directions. Shields protect against enemy attacks and do recharge every turn.</target>
+          <target state="new">Shields is a type of énergie field around a starships. There are 6 directions. Shields protect against enemy attacks and do recharge every turn.</target>
         </trans-unit>
         <trans-unit id="UnitPanel_ShieldsRechargeRate" translate="yes" xml:space="preserve">
           <source>Shields Recharge</source>
@@ -4364,19 +4364,19 @@
         </trans-unit>
         <trans-unit id="UnitPanel_TotalEnergyDesc" translate="yes" xml:space="preserve">
           <source>Total Energy is the total value of an energy available for a starship's systems. More energy means better weapons, engines and sensors.</source>
-          <target state="new">Total Energy is the total value of an energy available for a starship's systems. More energy means better weapons, engines and sensors.</target>
+          <target state="new">Total énergie is the total value of an énergie available for a starship's systems. More énergie means better weapons, engines and sensors.</target>
         </trans-unit>
         <trans-unit id="UnitPanel_Upgrades" translate="yes" xml:space="preserve">
           <source>Upgrades</source>
-          <target state="new">Upgrades</target>
+          <target state="new">Améliorations</target>
         </trans-unit>
         <trans-unit id="UnitPanel_WarpEnergyDesc" translate="yes" xml:space="preserve">
           <source>Warp Energy gives you the ability to warp jump and mini warp jump, but only if it's fully charged.</source>
-          <target state="new">Warp Energy gives you the ability to warp jump and mini warp jump, but only if it's fully charged.</target>
+          <target state="new">Warp énergie gives you the ability to warp jump and mini warp jump, but only if it's fully charged.</target>
         </trans-unit>
         <trans-unit id="UnitPanel_WarpEngineEnergy" translate="yes" xml:space="preserve">
           <source>Warp Energy</source>
-          <target state="new">Warp Energy</target>
+          <target state="new">Warp énergie</target>
         </trans-unit>
         <trans-unit id="UnitPanel_WarpRechargeRate" translate="yes" xml:space="preserve">
           <source>Warp Recharge</source>
@@ -4424,7 +4424,7 @@
         </trans-unit>
         <trans-unit id="UnitTradeRoutePanel_CancelTrade" translate="yes" xml:space="preserve">
           <source>CANCEL</source>
-          <target state="new">CANCEL</target>
+          <target state="new">ANNULER</target>
         </trans-unit>
         <trans-unit id="UnitTradeRoutePanel_Expiration" translate="yes" xml:space="preserve">
           <source>Expiration</source>
@@ -4452,7 +4452,7 @@
         </trans-unit>
         <trans-unit id="UnitTradeRoutePanel_ShowDomestic" translate="yes" xml:space="preserve">
           <source>Domestic</source>
-          <target state="new">Domestic</target>
+          <target state="new">Domestique</target>
         </trans-unit>
         <trans-unit id="UnitTradeRoutePanel_ShowGlobal" translate="yes" xml:space="preserve">
           <source>Global</source>
@@ -4460,7 +4460,7 @@
         </trans-unit>
         <trans-unit id="UnitTradeRoutePanel_TradeRoute" translate="yes" xml:space="preserve">
           <source>TRADE ROUTE</source>
-          <target state="new">TRADE ROUTE</target>
+          <target state="new">ROUTE COMMERCIALE</target>
         </trans-unit>
         <trans-unit id="UnitUpgrade_0_Desc" translate="yes" xml:space="preserve">
           <source>Stronger hull for the ship. This Hull makes the ship more durable.</source>
@@ -4468,19 +4468,19 @@
         </trans-unit>
         <trans-unit id="UnitUpgrade_0_Name" translate="yes" xml:space="preserve">
           <source>Hull</source>
-          <target state="new">Hull</target>
+          <target state="new">Coque</target>
         </trans-unit>
         <trans-unit id="UnitUpgrade_1_Desc" translate="yes" xml:space="preserve">
           <source>Boost to Weapon Energy systems. This upgrade provides more firepower.</source>
-          <target state="new">Boost to Weapon Energy systems. This upgrade provides more firepower.</target>
+          <target state="new">Boost to Weapon énergie systems. This upgrade provides more firepower.</target>
         </trans-unit>
         <trans-unit id="UnitUpgrade_1_Name" translate="yes" xml:space="preserve">
           <source>Weapons</source>
-          <target state="new">Weapons</target>
+          <target state="new">Armements</target>
         </trans-unit>
         <trans-unit id="UnitUpgrade_10_Desc" translate="yes" xml:space="preserve">
           <source>Boost to Warp Recharge power. This upgrade provides faster warp energy recharge.</source>
-          <target state="new">Boost to Warp Recharge power. This upgrade provides faster warp energy recharge.</target>
+          <target state="new">Boost to Warp Recharge power. This upgrade provides faster warp énergie recharge.</target>
         </trans-unit>
         <trans-unit id="UnitUpgrade_10_Name" translate="yes" xml:space="preserve">
           <source>Warp Recharge</source>
@@ -4496,11 +4496,11 @@
         </trans-unit>
         <trans-unit id="UnitUpgrade_101_Desc" translate="yes" xml:space="preserve">
           <source>Energy regulator provides more energy to the starship.</source>
-          <target state="new">Energy regulator provides more energy to the starship.</target>
+          <target state="new">énergie regulator provides more énergie to the starship.</target>
         </trans-unit>
         <trans-unit id="UnitUpgrade_101_Name" translate="yes" xml:space="preserve">
           <source>Energy Regulation</source>
-          <target state="new">Energy Regulation</target>
+          <target state="new">énergie Regulation</target>
         </trans-unit>
         <trans-unit id="UnitUpgrade_102_Desc" translate="yes" xml:space="preserve">
           <source>Warp inductor makes the starship faster in warp.</source>
@@ -4520,35 +4520,35 @@
         </trans-unit>
         <trans-unit id="UnitUpgrade_104_Desc" translate="yes" xml:space="preserve">
           <source>This upgrade provides more energy to Weapons.</source>
-          <target state="new">This upgrade provides more energy to Weapons.</target>
+          <target state="new">This upgrade provides more énergie to Weapons.</target>
         </trans-unit>
         <trans-unit id="UnitUpgrade_104_Name" translate="yes" xml:space="preserve">
           <source>Weapons</source>
-          <target state="new">Weapons</target>
+          <target state="new">Armements</target>
         </trans-unit>
         <trans-unit id="UnitUpgrade_105_Desc" translate="yes" xml:space="preserve">
           <source>This upgrade provides more energy to Shields.</source>
-          <target state="new">This upgrade provides more energy to Shields.</target>
+          <target state="new">This upgrade provides more énergie to Shields.</target>
         </trans-unit>
         <trans-unit id="UnitUpgrade_105_Name" translate="yes" xml:space="preserve">
           <source>Shields</source>
-          <target state="new">Shields</target>
+          <target state="new">Boucliers</target>
         </trans-unit>
         <trans-unit id="UnitUpgrade_106_Desc" translate="yes" xml:space="preserve">
           <source>This upgrade provides more energy to Engines.</source>
-          <target state="new">This upgrade provides more energy to Engines.</target>
+          <target state="new">This upgrade provides more énergie to Engines.</target>
         </trans-unit>
         <trans-unit id="UnitUpgrade_106_Name" translate="yes" xml:space="preserve">
           <source>Engines</source>
-          <target state="new">Engines</target>
+          <target state="new">Moteurs</target>
         </trans-unit>
         <trans-unit id="UnitUpgrade_107_Desc" translate="yes" xml:space="preserve">
           <source>This upgrade provides more energy to Sensors.</source>
-          <target state="new">This upgrade provides more energy to Sensors.</target>
+          <target state="new">This upgrade provides more énergie to Sensors.</target>
         </trans-unit>
         <trans-unit id="UnitUpgrade_107_Name" translate="yes" xml:space="preserve">
           <source>Sensors</source>
-          <target state="new">Sensors</target>
+          <target state="new">Capteurs</target>
         </trans-unit>
         <trans-unit id="UnitUpgrade_108_Desc" translate="yes" xml:space="preserve">
           <source>This upgrade provides more a shield damage power to weapons.</source>
@@ -4580,7 +4580,7 @@
         </trans-unit>
         <trans-unit id="UnitUpgrade_12_Name" translate="yes" xml:space="preserve">
           <source>Experience</source>
-          <target state="new">Experience</target>
+          <target state="new">Expérience</target>
         </trans-unit>
         <trans-unit id="UnitUpgrade_13_Desc" translate="yes" xml:space="preserve">
           <source>This upgrade provides bonus to trade.</source>
@@ -4588,7 +4588,7 @@
         </trans-unit>
         <trans-unit id="UnitUpgrade_13_Name" translate="yes" xml:space="preserve">
           <source>Trade Bonus</source>
-          <target state="new">Trade Bonus</target>
+          <target state="new">Bonus de commerce</target>
         </trans-unit>
         <trans-unit id="UnitUpgrade_14_Desc" translate="yes" xml:space="preserve">
           <source>Builder production upgrade. This upgrade provides bonus to production for faster building.</source>
@@ -4596,11 +4596,11 @@
         </trans-unit>
         <trans-unit id="UnitUpgrade_14_Name" translate="yes" xml:space="preserve">
           <source>Production Bonus</source>
-          <target state="new">Production Bonus</target>
+          <target state="new">Bonus de production</target>
         </trans-unit>
         <trans-unit id="UnitUpgrade_2_Desc" translate="yes" xml:space="preserve">
           <source>Boost to Weapon Hull Damage. This upgrade provides higher damage to hull per Weapon Energy.</source>
-          <target state="new">Boost to Weapon Hull Damage. This upgrade provides higher damage to hull per Weapon Energy.</target>
+          <target state="new">Boost to Weapon Hull Damage. This upgrade provides higher damage to hull per Weapon énergie.</target>
         </trans-unit>
         <trans-unit id="UnitUpgrade_2_Name" translate="yes" xml:space="preserve">
           <source>Hull Damage</source>
@@ -4608,27 +4608,27 @@
         </trans-unit>
         <trans-unit id="UnitUpgrade_3_Desc" translate="yes" xml:space="preserve">
           <source>Boost to Shield Energy systems. This upgrade provides stronger shields.</source>
-          <target state="new">Boost to Shield Energy systems. This upgrade provides stronger shields.</target>
+          <target state="new">Boost to Shield énergie systems. This upgrade provides stronger shields.</target>
         </trans-unit>
         <trans-unit id="UnitUpgrade_3_Name" translate="yes" xml:space="preserve">
           <source>Shields</source>
-          <target state="new">Shields</target>
+          <target state="new">Boucliers</target>
         </trans-unit>
         <trans-unit id="UnitUpgrade_4_Desc" translate="yes" xml:space="preserve">
           <source>Boost to Engine Energy systems. This upgrade provides faster movement per turn.</source>
-          <target state="new">Boost to Engine Energy systems. This upgrade provides faster movement per turn.</target>
+          <target state="new">Boost to Engine énergie systems. This upgrade provides faster movement per turn.</target>
         </trans-unit>
         <trans-unit id="UnitUpgrade_4_Name" translate="yes" xml:space="preserve">
           <source>Engines</source>
-          <target state="new">Engines</target>
+          <target state="new">Moteurs</target>
         </trans-unit>
         <trans-unit id="UnitUpgrade_5_Desc" translate="yes" xml:space="preserve">
           <source>Boost to Sensors Energy systems. This upgrade provides higher range for scanning, extracting, shield recharging and attacking.</source>
-          <target state="new">Boost to Sensors Energy systems. This upgrade provides higher range for scanning, extracting, shield recharging and attacking.</target>
+          <target state="new">Boost to Sensors énergie systems. This upgrade provides higher range for scanning, extracting, shield recharging and attacking.</target>
         </trans-unit>
         <trans-unit id="UnitUpgrade_5_Name" translate="yes" xml:space="preserve">
           <source>Sensors</source>
-          <target state="new">Sensors</target>
+          <target state="new">Capteurs</target>
         </trans-unit>
         <trans-unit id="UnitUpgrade_6_Desc" translate="yes" xml:space="preserve">
           <source>Boost to Shields' Recharge power. This upgrade provides faster shields regeneration per turn.</source>
@@ -4648,15 +4648,15 @@
         </trans-unit>
         <trans-unit id="UnitUpgrade_8_Desc" translate="yes" xml:space="preserve">
           <source>Boost to Total Energy of the unit. This upgrade provides more energy to all systems.</source>
-          <target state="new">Boost to Total Energy of the unit. This upgrade provides more energy to all systems.</target>
+          <target state="new">Boost to Total énergie of the unit. This upgrade provides more énergie to all systems.</target>
         </trans-unit>
         <trans-unit id="UnitUpgrade_8_Name" translate="yes" xml:space="preserve">
           <source>Total Energy</source>
-          <target state="new">Total Energy</target>
+          <target state="new">Énergie totale</target>
         </trans-unit>
         <trans-unit id="UnitUpgrade_9_Desc" translate="yes" xml:space="preserve">
           <source>Boost to Weapon Shields Damage. This upgrade provides higher damage to shields per Weapon Energy.</source>
-          <target state="new">Boost to Weapon Shields Damage. This upgrade provides higher damage to shields per Weapon Energy.</target>
+          <target state="new">Boost to Weapon Shields Damage. This upgrade provides higher damage to shields per Weapon énergie.</target>
         </trans-unit>
         <trans-unit id="UnitUpgrade_9_Name" translate="yes" xml:space="preserve">
           <source>Shields Damage</source>
@@ -4668,7 +4668,7 @@
         </trans-unit>
         <trans-unit id="UnitUpgradePanel_ActivateUpgrade" translate="yes" xml:space="preserve">
           <source>ACTIVATE</source>
-          <target state="new">ACTIVATE</target>
+          <target state="new">ACTIVER</target>
         </trans-unit>
         <trans-unit id="UnitUpgradePanel_UnitUpgrades" translate="yes" xml:space="preserve">
           <source>UNIT UPGRADES</source>
@@ -4680,19 +4680,19 @@
         </trans-unit>
         <trans-unit id="VerticalSyncText" translate="yes" xml:space="preserve">
           <source>Vertical Sync</source>
-          <target state="new">Vertical Sync</target>
+          <target state="new">Synchronisation verticale</target>
         </trans-unit>
         <trans-unit id="VideoText" translate="yes" xml:space="preserve">
           <source>VIDEO</source>
-          <target state="new">VIDEO</target>
+          <target state="new">VIDÉO</target>
         </trans-unit>
         <trans-unit id="WindowedText" translate="yes" xml:space="preserve">
           <source>Windowed</source>
-          <target state="new">Windowed</target>
+          <target state="new">Fenêtré</target>
         </trans-unit>
         <trans-unit id="ZoomSpeed" translate="yes" xml:space="preserve">
           <source>Zoom Speed</source>
-          <target state="new">Zoom Speed</target>
+          <target state="new">Vitesse du zoom</target>
         </trans-unit>
       </group>
     </body>
